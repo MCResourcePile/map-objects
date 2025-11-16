@@ -1,0 +1,50 @@
+name: run
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+
+  workflow_dispatch:
+
+jobs:
+  fetch-pgm-maps:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v5
+        with:
+          distribution: 'corretto'
+          java-version: '21'
+
+      - name: setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: checkout map fetcher
+        uses: actions/checkout@v4
+        with:
+          repository: MCResourcePile/map-fetcher
+          path: "./map-fetcher"
+
+      - name: install dependencies
+        run: |
+          cd ./map-fetcher
+          npm install
+
+      - name: execute script
+        run: |
+          cd ./map-fetcher
+          node src/overview.js --source="../sources.json" --output="../objects"
+
+      - name: remove temp files
+        run: |
+          rm -r ./map-fetcher
+
+      - name: commit changes
+        if: github.event_name != 'pull_request'
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: Update map objects

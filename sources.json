@@ -1,0 +1,10 @@
+{
+  "sources": [
+      {
+          "maintainer": "OvercastCommunity",
+          "repository": "CommunityMaps",
+          "url": "https://github.com/OvercastCommunity/CommunityMaps",
+          "branch": "master"
+      }
+  ]
+}
