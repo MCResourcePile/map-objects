@@ -1,0 +1,16 @@
+# COMMON_MC_OBJ_START
+# version: 1
+# exporter: jmc2obj
+# world_name: st_marc
+# world_path: D:\GitHub\mcresourcepile\map-fetcher\tmp\OvercastCommunity\CommunityMaps\other\counter_strat\st_marc
+# export_bounds_min: (-512, 0, -512)
+# export_bounds_max: (495, 255, 495)
+# export_offset: (0.000000, 0.000000, 0.000000)
+# block_scale: 1.000000
+# block_origin_offset: (-0.5, -0.5, -0.5)
+# z_up: false
+# texture_type: INDIVIDUAL_TILES
+# has_split_blocks: false
+# COMMON_MC_OBJ_END
+mtllib minecraft.mtl
+

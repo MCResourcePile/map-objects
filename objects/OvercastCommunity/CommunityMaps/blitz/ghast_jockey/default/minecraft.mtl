@@ -1,0 +1,77 @@
+
+newmtl minecraft_block-purple_stained_glass
+Kd 0.4980 0.2471 0.6980
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_stained_glass.png
+map_d tex/minecraft/block/purple_stained_glass.png
+
+newmtl minecraft_entity-chest-normal
+Kd 0.4119 0.3043 0.1372
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/chest/normal.png
+map_d tex/minecraft/entity/chest/normal.png
+
+newmtl jmc2obj_head-player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528
+Kd 0.0101 0.0167 0.0085
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528.png
+map_d tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528.png
+
+newmtl minecraft_block-light_blue_concrete
+Kd 0.1396 0.5374 0.7801
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_concrete.png
+
+newmtl minecraft_block-purple_concrete
+Kd 0.3938 0.1240 0.6133
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_concrete.png
+
+newmtl minecraft_block-lime_concrete
+Kd 0.3690 0.6620 0.0961
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lime_concrete.png
+
+newmtl minecraft_block-jukebox_side
+Kd 0.3481 0.2312 0.1600
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jukebox_side.png
+
+newmtl minecraft_block-yellow_stained_glass
+Kd 0.8980 0.8980 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_stained_glass.png
+map_d tex/minecraft/block/yellow_stained_glass.png
+
+newmtl minecraft_block-red_concrete
+Kd 0.5584 0.1287 0.1287
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_concrete.png
+
+newmtl minecraft_block-jukebox_top
+Kd 0.3678 0.2526 0.1855
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jukebox_top.png
+
+newmtl minecraft_block-lime_stained_glass
+Kd 0.4980 0.8000 0.0980
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lime_stained_glass.png
+map_d tex/minecraft/block/lime_stained_glass.png
+
+newmtl minecraft_block-light_blue_stained_glass
+Kd 0.4000 0.6000 0.8471
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_stained_glass.png
+map_d tex/minecraft/block/light_blue_stained_glass.png
+
+newmtl minecraft_block-red_stained_glass
+Kd 0.6000 0.2000 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_stained_glass.png
+map_d tex/minecraft/block/red_stained_glass.png
+
+newmtl minecraft_block-yellow_concrete
+Kd 0.9451 0.6879 0.0841
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_concrete.png

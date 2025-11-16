@@ -1,0 +1,58 @@
+
+newmtl minecraft_block-reinforced_deepslate_bottom
+Kd 0.3103 0.3235 0.3136
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_bottom.png
+
+newmtl minecraft_block-purple_concrete
+Kd 0.3938 0.1240 0.6133
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_concrete.png
+
+newmtl minecraft_block-target_top
+Kd 0.8878 0.6679 0.6188
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/target_top.png
+
+newmtl minecraft_block-yellow_concrete
+Kd 0.9451 0.6879 0.0841
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_concrete.png
+
+newmtl minecraft_block-target_side
+Kd 0.8989 0.6911 0.6591
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/target_side.png
+
+newmtl minecraft_block-copper_block
+Kd 0.7546 0.4222 0.3130
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/copper_block.png
+
+newmtl minecraft_entity-signs-hanging-dark_oak
+Kd 0.2673 0.2207 0.1651
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/signs/hanging/dark_oak.png
+map_d tex/minecraft/entity/signs/hanging/dark_oak.png
+
+newmtl minecraft_block-note_block
+Kd 0.3481 0.2312 0.1600
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/note_block.png
+
+newmtl minecraft_entity-enderdragon-dragon
+Kd 0.1505 0.1486 0.1509
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/enderdragon/dragon.png
+map_d tex/minecraft/entity/enderdragon/dragon.png
+
+newmtl minecraft_block-reinforced_deepslate_side
+Kd 0.4017 0.4288 0.3961
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_side.png
+
+newmtl minecraft_block-chain
+Kd 0.2015 0.2272 0.2917
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chain.png
+map_d tex/minecraft/block/chain.png
