@@ -9,6 +9,7 @@ on:
 jobs:
   fetch-pgm-maps:
     runs-on: ubuntu-latest
+    environment: run
     steps:
       - name: checkout
         uses: actions/checkout@v4
