@@ -39,6 +39,8 @@ jobs:
         run: |
           cd ./map-fetcher
           node src/overview.js --source="../sources.json" --output="../objects"
+        env:
+          JMC2OBJVERSION: ${{ vars.JMC2OBJVERSION }}
 
       - name: remove temp files
         run: |
