@@ -1,6 +1,23 @@
 {
   "sources": [
-
+        {
+            "maintainer": "OvercastCommunity",
+            "repository": "public-competitive",
+            "url": "https://github.com/OvercastCommunity/public-competitive",
+            "branch": "master"
+        },
+        {
+            "maintainer": "OvercastCommunity",
+            "repository": "CommunityMaps",
+            "url": "https://github.com/OvercastCommunity/CommunityMaps",
+            "branch": "master"
+        },
+        {
+            "maintainer": "OvercastCommunity",
+            "repository": "PublicMaps",
+            "url": "https://github.com/OvercastCommunity/PublicMaps",
+            "branch": "main"
+        },
         {
             "maintainer": "Warzone",
             "repository": "PublicMaps",
