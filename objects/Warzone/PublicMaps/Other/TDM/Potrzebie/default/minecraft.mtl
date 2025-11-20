@@ -1,0 +1,60 @@
+
+newmtl minecraft_block-big_dripleaf_stem
+Kd 0.3584 0.4516 0.1802
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/big_dripleaf_stem.png
+map_d tex/minecraft/block/big_dripleaf_stem.png
+
+newmtl minecraft_block-mud
+Kd 0.2357 0.2254 0.2378
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/mud.png
+
+newmtl minecraft_block-reinforced_deepslate_side
+Kd 0.4017 0.4288 0.3961
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_side.png
+
+newmtl minecraft_block-big_dripleaf_top
+Kd 0.4375 0.5563 0.2029
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/big_dripleaf_top.png
+map_d tex/minecraft/block/big_dripleaf_top.png
+
+newmtl minecraft_block-polished_blackstone_bricks
+Kd 0.1893 0.1668 0.1952
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_blackstone_bricks.png
+
+newmtl minecraft_block-reinforced_deepslate_top
+Kd 0.3150 0.3252 0.3093
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_top.png
+
+newmtl minecraft_block-polished_blackstone
+Kd 0.2087 0.1907 0.2225
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_blackstone.png
+
+newmtl jmc2obj_head-player_zzuf_7fb043613dab526204cd9cb1cf6d236f3d440e5b80939ed50c2501e305c20974
+Kd 0.3559 0.2813 0.2693
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/head/player_zzuf_7fb043613dab526204cd9cb1cf6d236f3d440e5b80939ed50c2501e305c20974.png
+map_d tex/jmc2obj/head/player_zzuf_7fb043613dab526204cd9cb1cf6d236f3d440e5b80939ed50c2501e305c20974.png
+
+newmtl minecraft_block-big_dripleaf_tip
+Kd 0.3827 0.4890 0.1894
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/big_dripleaf_tip.png
+map_d tex/minecraft/block/big_dripleaf_tip.png
+
+newmtl minecraft_block-big_dripleaf_side
+Kd 0.2954 0.3856 0.1739
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/big_dripleaf_side.png
+map_d tex/minecraft/block/big_dripleaf_side.png
+
+newmtl minecraft_block-reinforced_deepslate_bottom
+Kd 0.3103 0.3235 0.3136
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_bottom.png

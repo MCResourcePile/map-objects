@@ -1,16 +1,11 @@
 {
   "sources": [
-      {
-          "maintainer": "OvercastCommunity",
-          "repository": "CommunityMaps",
-          "url": "https://github.com/OvercastCommunity/CommunityMaps",
-          "branch": "master"
-      },
-      {
-          "maintainer": "OvercastCommunity",
-          "repository": "PublicMaps",
-          "url": "https://github.com/OvercastCommunity/PublicMaps",
-          "branch": "main"
-      }
-  ]
+
+        {
+            "maintainer": "Warzone",
+            "repository": "PublicMaps",
+            "url": "https://github.com/Warzone/PublicMaps",
+            "branch": "main"
+        }
+    ]
 }

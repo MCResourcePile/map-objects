@@ -1,0 +1,273 @@
+
+newmtl jmc2obj_head-player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528
+Kd 0.0101 0.0167 0.0085
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528.png
+map_d tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528.png
+
+newmtl minecraft_block-large_fern_top
+Kd 0.1333 0.3449 0.0436
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/large_fern_top.png
+map_d tex/minecraft/block/large_fern_top.png
+
+newmtl minecraft_block-smooth_stone_slab_side
+Kd 0.6570 0.6570 0.6570
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/smooth_stone_slab_side.png
+
+newmtl minecraft_block-coal_ore
+Kd 0.4144 0.4150 0.4132
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/coal_ore.png
+
+newmtl minecraft_block-spruce_leaves
+Kd 0.2470 0.3879 0.2470
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/spruce_leaves.png
+map_d tex/minecraft/block/spruce_leaves.png
+
+newmtl minecraft_block-glass
+Kd 0.6895 0.8389 0.8589
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/glass.png
+map_d tex/minecraft/block/glass.png
+
+newmtl minecraft_block-mossy_cobblestone
+Kd 0.4318 0.4647 0.3723
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/mossy_cobblestone.png
+
+newmtl minecraft_block-dirt
+Kd 0.5265 0.3776 0.2627
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dirt.png
+
+newmtl minecraft_block-sunflower_bottom
+Kd 0.2226 0.5298 0.1212
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sunflower_bottom.png
+map_d tex/minecraft/block/sunflower_bottom.png
+
+newmtl minecraft_block-grass_block_side
+Kd 0.4972 0.4201 0.2572
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/grass_block_side.png
+
+newmtl minecraft_block-reinforced_deepslate_bottom
+Kd 0.3103 0.3235 0.3136
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_bottom.png
+
+newmtl minecraft_block-azalea_top
+Kd 0.3992 0.4892 0.1865
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/azalea_top.png
+
+newmtl minecraft_block-smooth_stone
+Kd 0.6223 0.6223 0.6223
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/smooth_stone.png
+
+newmtl minecraft_block-grass_block_top
+Kd 0.3640 0.5742 0.2261
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/grass_block_top.png
+
+newmtl minecraft_block-yellow_stained_glass
+Kd 0.8980 0.8980 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_stained_glass.png
+map_d tex/minecraft/block/yellow_stained_glass.png
+
+newmtl minecraft_block-reinforced_deepslate_side
+Kd 0.4017 0.4288 0.3961
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_side.png
+
+newmtl minecraft_block-redstone_lamp_on
+Kd 0.5602 0.3994 0.2378
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/redstone_lamp_on.png
+
+newmtl minecraft_block-beacon
+Kd 0.4620 0.8664 0.8436
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/beacon.png
+
+newmtl minecraft_block-large_fern_bottom
+Kd 0.1409 0.3617 0.0471
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/large_fern_bottom.png
+map_d tex/minecraft/block/large_fern_bottom.png
+
+newmtl minecraft_block-yellow_concrete
+Kd 0.9451 0.6879 0.0841
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_concrete.png
+
+newmtl minecraft_block-coarse_dirt
+Kd 0.4684 0.3357 0.2329
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/coarse_dirt.png
+
+newmtl minecraft_block-bedrock
+Kd 0.3338 0.3338 0.3338
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bedrock.png
+
+newmtl minecraft_block-obsidian
+Kd 0.0594 0.0416 0.0963
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/obsidian.png
+
+newmtl minecraft_block-white_stained_glass_pane_top
+Kd 0.9652 0.9652 0.9652
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/white_stained_glass_pane_top.png
+map_d tex/minecraft/block/white_stained_glass_pane_top.png
+
+newmtl minecraft_block-yellow_stained_glass_pane_top
+Kd 0.8667 0.8667 0.1903
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_stained_glass_pane_top.png
+map_d tex/minecraft/block/yellow_stained_glass_pane_top.png
+
+newmtl minecraft_block-spruce_planks
+Kd 0.4507 0.3327 0.1904
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/spruce_planks.png
+
+newmtl minecraft_block-azalea_side
+Kd 0.3685 0.4626 0.1781
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/azalea_side.png
+map_d tex/minecraft/block/azalea_side.png
+
+newmtl minecraft_block-light_blue_stained_glass_pane_top
+Kd 0.3836 0.5777 0.8180
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_stained_glass_pane_top.png
+map_d tex/minecraft/block/light_blue_stained_glass_pane_top.png
+
+newmtl minecraft_block-netherite_block
+Kd 0.2609 0.2412 0.2505
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/netherite_block.png
+
+newmtl minecraft_block-black_concrete
+Kd 0.0330 0.0408 0.0604
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/black_concrete.png
+
+newmtl minecraft_block-stone
+Kd 0.4923 0.4923 0.4923
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stone.png
+
+newmtl minecraft_block-polished_deepslate
+Kd 0.2842 0.2846 0.2868
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_deepslate.png
+
+newmtl minecraft_block-reinforced_deepslate_top
+Kd 0.3150 0.3252 0.3093
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_top.png
+
+newmtl minecraft_block-blackstone_top
+Kd 0.1665 0.1430 0.1646
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blackstone_top.png
+
+newmtl minecraft_entity-end_portal
+Kd 0.0112 0.0112 0.0112
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/end_portal.png
+
+newmtl minecraft_block-redstone_block
+Kd 0.6885 0.0972 0.0201
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/redstone_block.png
+
+newmtl minecraft_block-redstone_torch
+Kd 0.6719 0.3098 0.1727
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/redstone_torch.png
+map_d tex/minecraft/block/redstone_torch.png
+
+newmtl minecraft_block-light_blue_concrete
+Kd 0.1396 0.5374 0.7801
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_concrete.png
+
+newmtl minecraft_block-cobblestone
+Kd 0.5011 0.4992 0.5004
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cobblestone.png
+
+newmtl minecraft_block-stone_bricks
+Kd 0.4802 0.4777 0.4802
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stone_bricks.png
+
+newmtl minecraft_block-andesite
+Kd 0.5339 0.5344 0.5364
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/andesite.png
+
+newmtl jmc2obj_head-player_zzuf_7fb043613dab526204cd9cb1cf6d236f3d440e5b80939ed50c2501e305c20974
+Kd 0.3559 0.2813 0.2693
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/head/player_zzuf_7fb043613dab526204cd9cb1cf6d236f3d440e5b80939ed50c2501e305c20974.png
+map_d tex/jmc2obj/head/player_zzuf_7fb043613dab526204cd9cb1cf6d236f3d440e5b80939ed50c2501e305c20974.png
+
+newmtl minecraft_block-cracked_deepslate_bricks
+Kd 0.2548 0.2545 0.2559
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cracked_deepslate_bricks.png
+
+newmtl minecraft_block-iron_block
+Kd 0.8632 0.8628 0.8628
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_block.png
+
+newmtl jmc2obj_block-redstone_dust_line0_on
+Kd 0.9294 0.0000 0.0000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/block/redstone_dust_line0_on.png
+map_d tex/jmc2obj/block/redstone_dust_line0_on.png
+
+newmtl minecraft_block-white_stained_glass
+Kd 1.0000 1.0000 1.0000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/white_stained_glass.png
+map_d tex/minecraft/block/white_stained_glass.png
+
+newmtl minecraft_block-light_blue_stained_glass
+Kd 0.4000 0.6000 0.8471
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_stained_glass.png
+map_d tex/minecraft/block/light_blue_stained_glass.png
+
+newmtl minecraft_block-water_still
+Kd 0.1680 0.3193 0.6148
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/water_still.png
+map_d tex/minecraft/block/water_still.png
+
+newmtl minecraft_block-azalea_plant
+Kd 0.3591 0.4304 0.1675
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/azalea_plant.png
+map_d tex/minecraft/block/azalea_plant.png
+
+newmtl minecraft_block-deepslate_bricks
+Kd 0.2783 0.2781 0.2795
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate_bricks.png
+
+newmtl minecraft_block-moss_block
+Kd 0.3493 0.4303 0.1780
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/moss_block.png
