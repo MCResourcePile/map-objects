@@ -2,12 +2,6 @@
   "sources": [
         {
             "maintainer": "OvercastCommunity",
-            "repository": "public-competitive",
-            "url": "https://github.com/OvercastCommunity/public-competitive",
-            "branch": "master"
-        },
-        {
-            "maintainer": "OvercastCommunity",
             "repository": "CommunityMaps",
             "url": "https://github.com/OvercastCommunity/CommunityMaps",
             "branch": "master"
@@ -19,9 +13,33 @@
             "branch": "main"
         },
         {
+            "maintainer": "OvercastCommunity",
+            "repository": "public-competitive",
+            "url": "https://github.com/OvercastCommunity/public-competitive",
+            "branch": "master"
+        },
+        {
             "maintainer": "Warzone",
             "repository": "PublicMaps",
             "url": "https://github.com/Warzone/PublicMaps",
+            "branch": "main"
+        },
+        {
+            "maintainer": "Xerocoles",
+            "repository": "stratus-maps",
+            "url": "https://github.com/Xerocoles/stratus-maps",
+            "branch": "master"
+        },
+        {
+            "maintainer": "MCResourcePile",
+            "repository": "pgm-maps",
+            "url": "https://github.com/MCResourcePile/pgm-maps",
+            "branch": "master"
+        },
+        {
+            "maintainer": "Strangeys",
+            "repository": "MinecraftMaps",
+            "url": "https://github.com/Strangeys/MinecraftMaps",
             "branch": "main"
         }
     ]
