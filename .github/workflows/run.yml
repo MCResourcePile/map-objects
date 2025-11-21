@@ -15,6 +15,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           sparse-checkout: |
+            /*
             !*.obj
             !*.mtl
           sparse-checkout-cone-mode: false
@@ -43,7 +44,7 @@ jobs:
       - name: execute script
         run: |
           cd ./map-fetcher
-          node src/overview.js --source="../sources.json" --output="../objects"
+          node src/overview.js --source="${GITHUB_WORKSPACE}/sources.json" --output="${GITHUB_WORKSPACE}/objects"
         env:
           JMC2OBJVERSION: ${{ vars.JMC2OBJVERSION }}
 
