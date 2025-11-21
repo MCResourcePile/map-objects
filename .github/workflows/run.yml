@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            !*.obj
+            !*.mtl
+          sparse-checkout-cone-mode: false
 
       - uses: actions/setup-java@v5
         with:
