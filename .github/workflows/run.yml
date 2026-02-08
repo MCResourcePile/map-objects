@@ -44,7 +44,7 @@ jobs:
       - name: execute script
         run: |
           cd ./map-fetcher
-          node src/overview.js --source="${GITHUB_WORKSPACE}/sources.json" --output="${GITHUB_WORKSPACE}/objects"
+          node src/overview.js --source="${GITHUB_WORKSPACE}/sources.json" --output="${GITHUB_WORKSPACE}"
         env:
           JMC2OBJVERSION: ${{ vars.JMC2OBJVERSION }}
 
