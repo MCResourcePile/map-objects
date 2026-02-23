@@ -41,6 +41,12 @@
             "repository": "MinecraftMaps",
             "url": "https://github.com/Strangeys/MinecraftMaps",
             "branch": "main"
+        },
+        {
+            "maintainer": "CasualModernPGM",
+            "repository": "ModernMaps",
+            "url": "https://github.com/CasualModernPGM/ModernMaps",
+            "branch": "master"
         }
     ]
 }
