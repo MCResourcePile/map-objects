@@ -4,18 +4,21 @@ Kd 0.2470 0.3879 0.2470
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/spruce_leaves.png
 map_d tex/minecraft/block/spruce_leaves_a.png
+d 0.99
 
 newmtl minecraft_block-oak_leaves
 Kd 0.2112 0.5280 0.0699
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_leaves.png
 map_d tex/minecraft/block/oak_leaves_a.png
+d 0.99
 
 newmtl minecraft_entity-skeleton-skeleton
 Kd 0.6590 0.6566 0.6585
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/skeleton/skeleton.png
 map_d tex/minecraft/entity/skeleton/skeleton_a.png
+d 0.99
 
 newmtl minecraft_block-dirt
 Kd 0.5265 0.3776 0.2627
@@ -37,12 +40,14 @@ Kd 0.2298 0.5650 0.0683
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/jungle_leaves.png
 map_d tex/minecraft/block/jungle_leaves_a.png
+d 0.99
 
 newmtl minecraft_block-birch_leaves
 Kd 0.3351 0.4337 0.2231
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/birch_leaves.png
 map_d tex/minecraft/block/birch_leaves_a.png
+d 0.99
 
 newmtl minecraft_block-podzol_side
 Kd 0.4804 0.3439 0.2236
@@ -69,6 +74,7 @@ Kd 0.0632 0.2611 0.0968
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/lily_pad.png
 map_d tex/minecraft/block/lily_pad_a.png
+d 0.99
 
 newmtl minecraft_block-smooth_stone_slab_side
 Kd 0.6570 0.6570 0.6570
@@ -80,18 +86,21 @@ Kd 0.1571 0.3982 0.0528
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/grass.png
 map_d tex/minecraft/block/grass_a.png
+d 0.99
 
 newmtl minecraft_block-water_still
 Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still_a.png
+d 0.99
 
 newmtl minecraft_block-orange_tulip
 Kd 0.3665 0.5575 0.1206
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/orange_tulip.png
 map_d tex/minecraft/block/orange_tulip_a.png
+d 0.99
 
 newmtl minecraft_block-cobblestone
 Kd 0.5011 0.4992 0.5004
@@ -118,12 +127,14 @@ Kd 0.1614 0.3047 0.5906
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_flow.png
 map_d tex/minecraft/block/water_flow_a.png
+d 0.99
 
 newmtl minecraft_entity-signs-oak
 Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak_a.png
+d 0.99
 
 newmtl minecraft_block-stone_bricks
 Kd 0.4802 0.4777 0.4802
@@ -145,6 +156,7 @@ Kd 0.6234 0.5381 0.7213
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/allium.png
 map_d tex/minecraft/block/allium_a.png
+d 0.99
 
 newmtl minecraft_block-hay_block_side
 Kd 0.6518 0.5351 0.1495
@@ -176,6 +188,7 @@ Kd 0.6719 0.3098 0.1727
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/redstone_torch.png
 map_d tex/minecraft/block/redstone_torch_a.png
+d 0.99
 
 newmtl minecraft_block-farmland_moist
 Kd 0.3213 0.1744 0.0608
@@ -192,6 +205,7 @@ Kd 0.2206 0.5536 0.0725
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/dark_oak_leaves.png
 map_d tex/minecraft/block/dark_oak_leaves_a.png
+d 0.99
 
 newmtl minecraft_block-mushroom_stem
 Kd 0.7969 0.7711 0.7279
@@ -203,6 +217,7 @@ Kd 0.2893 0.2852 0.2907
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cauldron_top.png
 map_d tex/minecraft/block/cauldron_top_a.png
+d 0.99
 
 newmtl minecraft_block-orange_wool
 Kd 0.9437 0.4631 0.0765
@@ -254,6 +269,7 @@ Kd 0.4360 0.0710 0.0745
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/nether_wart_stage2.png
 map_d tex/minecraft/block/nether_wart_stage2_a.png
+d 0.99
 
 newmtl minecraft_block-purple_wool
 Kd 0.4779 0.1655 0.6765
@@ -270,6 +286,7 @@ Kd 0.8964 0.9145 0.9191
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cobweb.png
 map_d tex/minecraft/block/cobweb_a.png
+d 0.99
 
 newmtl minecraft_block-cauldron_side
 Kd 0.2907 0.2877 0.2929
@@ -301,6 +318,7 @@ Kd 0.1332 0.3414 0.0444
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/fern.png
 map_d tex/minecraft/block/fern_a.png
+d 0.99
 
 newmtl minecraft_block-mushroom_block_inside
 Kd 0.7907 0.6673 0.4713
@@ -312,6 +330,7 @@ Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder_a.png
+d 0.99
 
 newmtl minecraft_block-stone
 Kd 0.4923 0.4923 0.4923

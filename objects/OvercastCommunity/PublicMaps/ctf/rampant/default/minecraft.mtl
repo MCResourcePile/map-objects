@@ -9,12 +9,14 @@ Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white
 Kd 0.8298 0.8134 0.7874
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white.png
 map_d tex/jmc2obj/banner/banner_base_white.png
+d 0.99
 
 newmtl minecraft_block-dark_oak_log
 Kd 0.2368 0.1826 0.1026
@@ -26,6 +28,7 @@ Kd 0.6643 0.8020 0.4996
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/azure_bluet.png
 map_d tex/minecraft/block/azure_bluet.png
+d 0.99
 
 newmtl minecraft_block-clay
 Kd 0.6301 0.6528 0.7037
@@ -37,6 +40,7 @@ Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still.png
+d 0.99
 
 newmtl minecraft_block-stone
 Kd 0.4923 0.4923 0.4923
@@ -48,6 +52,7 @@ Kd 0.1404 0.2748 0.2438
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/end_portal_frame_eye.png
 map_d tex/minecraft/block/end_portal_frame_eye.png
+d 0.99
 
 newmtl minecraft_block-polished_andesite
 Kd 0.5187 0.5284 0.5255
@@ -59,6 +64,7 @@ Kd 0.2112 0.5280 0.0699
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_leaves.png
 map_d tex/minecraft/block/oak_leaves.png
+d 0.99
 
 newmtl minecraft_block-light_blue_wool
 Kd 0.2277 0.6865 0.8522
@@ -85,6 +91,7 @@ Kd 0.6719 0.3098 0.1727
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/redstone_torch.png
 map_d tex/minecraft/block/redstone_torch.png
+d 0.99
 
 newmtl minecraft_block-bedrock
 Kd 0.3338 0.3338 0.3338
@@ -116,12 +123,14 @@ Kd 0.1855 0.6373 0.6599
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/blue_orchid.png
 map_d tex/minecraft/block/blue_orchid.png
+d 0.99
 
 newmtl minecraft_block-tall_grass_bottom
 Kd 0.1378 0.3507 0.0449
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/tall_grass_bottom.png
 map_d tex/minecraft/block/tall_grass_bottom.png
+d 0.99
 
 newmtl minecraft_block-light_gray_terracotta
 Kd 0.5304 0.4191 0.3824
@@ -133,6 +142,7 @@ Kd 0.8964 0.9145 0.9191
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cobweb.png
 map_d tex/minecraft/block/cobweb.png
+d 0.99
 
 newmtl minecraft_block-mossy_cobblestone
 Kd 0.4318 0.4647 0.3723
@@ -149,6 +159,7 @@ Kd 0.1614 0.3047 0.5906
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_flow.png
 map_d tex/minecraft/block/water_flow.png
+d 0.99
 
 newmtl minecraft_block-gold_ore
 Kd 0.5692 0.5250 0.4178
@@ -160,6 +171,7 @@ Kd 0.4898 0.3900 0.2224
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_trapdoor.png
 map_d tex/minecraft/block/oak_trapdoor.png
+d 0.99
 
 newmtl minecraft_block-dark_oak_log_top
 Kd 0.2654 0.1769 0.0877
@@ -196,6 +208,7 @@ Kd 0.2206 0.5536 0.0725
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/dark_oak_leaves.png
 map_d tex/minecraft/block/dark_oak_leaves.png
+d 0.99
 
 newmtl minecraft_block-grass_block_side
 Kd 0.4972 0.4201 0.2572
@@ -212,24 +225,28 @@ Kd 0.0632 0.2611 0.0968
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/lily_pad.png
 map_d tex/minecraft/block/lily_pad.png
+d 0.99
 
 newmtl minecraft_block-iron_bars
 Kd 0.5366 0.5459 0.5316
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/iron_bars.png
 map_d tex/minecraft/block/iron_bars.png
+d 0.99
 
 newmtl minecraft_block-tall_grass_top
 Kd 0.1626 0.4094 0.0538
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/tall_grass_top.png
 map_d tex/minecraft/block/tall_grass_top.png
+d 0.99
 
 newmtl minecraft_block-grass
 Kd 0.1571 0.3982 0.0528
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/grass.png
 map_d tex/minecraft/block/grass.png
+d 0.99
 
 newmtl minecraft_block-blue_terracotta
 Kd 0.2913 0.2341 0.3573
@@ -246,3 +263,4 @@ Kd 0.5445 0.4447 0.2508
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/torch.png
 map_d tex/minecraft/block/torch.png
+d 0.99

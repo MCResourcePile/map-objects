@@ -4,12 +4,14 @@ Kd 0.6676 0.8241 0.8522
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/glass_pane_top.png
 map_d tex/minecraft/block/glass_pane_top.png
+d 0.99
 
 newmtl minecraft_block-water_still
 Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still.png
+d 0.99
 
 newmtl minecraft_block-lava_still
 Kd 0.8504 0.4100 0.1033
@@ -21,6 +23,7 @@ Kd 0.4898 0.3900 0.2224
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_trapdoor.png
 map_d tex/minecraft/block/oak_trapdoor.png
+d 0.99
 
 newmtl minecraft_block-cracked_stone_bricks
 Kd 0.4640 0.4614 0.4640
@@ -32,6 +35,7 @@ Kd 0.4787 0.3955 0.3174
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/brewing_stand.png
 map_d tex/minecraft/block/brewing_stand.png
+d 0.99
 
 newmtl minecraft_block-mycelium_side
 Kd 0.4452 0.3436 0.2818
@@ -83,6 +87,7 @@ Kd 0.1247 0.3194 0.0408
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/vine.png
 map_d tex/minecraft/block/vine.png
+d 0.99
 
 newmtl minecraft_block-gravel
 Kd 0.5174 0.4998 0.4961
@@ -94,6 +99,7 @@ Kd 0.1614 0.3047 0.5906
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_flow.png
 map_d tex/minecraft/block/water_flow.png
+d 0.99
 
 newmtl minecraft_block-quartz_block_side
 Kd 0.9246 0.9016 0.8743
@@ -105,6 +111,7 @@ Kd 0.2972 0.2919 0.2963
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/hopper_top.png
 map_d tex/minecraft/block/hopper_top.png
+d 0.99
 
 newmtl minecraft_block-glowstone
 Kd 0.6736 0.5144 0.3306
@@ -116,18 +123,21 @@ Kd 0.6895 0.8389 0.8589
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/glass.png
 map_d tex/minecraft/block/glass.png
+d 0.99
 
 newmtl minecraft_block-lever
 Kd 0.4365 0.3663 0.2631
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/lever.png
 map_d tex/minecraft/block/lever.png
+d 0.99
 
 newmtl minecraft_block-tripwire_hook
 Kd 0.5593 0.5233 0.4628
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/tripwire_hook.png
 map_d tex/minecraft/block/tripwire_hook.png
+d 0.99
 
 newmtl minecraft_block-quartz_pillar
 Kd 0.9235 0.9047 0.8784
@@ -139,6 +149,7 @@ Kd 0.5714 0.7206 0.9960
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ice.png
 map_d tex/minecraft/block/ice.png
+d 0.99
 
 newmtl minecraft_block-furnace_front
 Kd 0.3597 0.3578 0.3578
@@ -150,12 +161,14 @@ Kd 0.4868 0.2690 0.2095
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/flower_pot.png
 map_d tex/minecraft/block/flower_pot.png
+d 0.99
 
 newmtl minecraft_entity-signs-oak
 Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak.png
+d 0.99
 
 newmtl minecraft_block-hopper_outside
 Kd 0.2612 0.2582 0.2674
@@ -172,36 +185,42 @@ Kd 0.4107 0.0000 0.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/block/redstone_dust_dot.png
 map_d tex/jmc2obj/block/redstone_dust_dot.png
+d 0.99
 
 newmtl minecraft_block-redstone_torch
 Kd 0.6719 0.3098 0.1727
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/redstone_torch.png
 map_d tex/minecraft/block/redstone_torch.png
+d 0.99
 
 newmtl minecraft_block-birch_leaves
 Kd 0.3351 0.4337 0.2231
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/birch_leaves.png
 map_d tex/minecraft/block/birch_leaves.png
+d 0.99
 
 newmtl minecraft_block-brown_mushroom
 Kd 0.6020 0.4581 0.3627
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/brown_mushroom.png
 map_d tex/minecraft/block/brown_mushroom.png
+d 0.99
 
 newmtl minecraft_entity-skeleton-skeleton
 Kd 0.6590 0.6566 0.6585
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/skeleton/skeleton.png
 map_d tex/minecraft/entity/skeleton/skeleton.png
+d 0.99
 
 newmtl minecraft_block-ladder
 Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder.png
+d 0.99
 
 newmtl minecraft_block-brewing_stand_base
 Kd 0.4569 0.4152 0.4152
@@ -268,6 +287,7 @@ Kd 0.5366 0.5459 0.5316
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/iron_bars.png
 map_d tex/minecraft/block/iron_bars.png
+d 0.99
 
 newmtl minecraft_block-chiseled_quartz_block
 Kd 0.9093 0.8897 0.8549

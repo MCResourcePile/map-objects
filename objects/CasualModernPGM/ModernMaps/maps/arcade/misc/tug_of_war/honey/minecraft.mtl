@@ -19,6 +19,7 @@ Kd 0.0980 0.0980 0.0980
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/black_stained_glass.png
 map_d tex/minecraft/block/black_stained_glass_a.png
+d 0.99
 
 newmtl minecraft_block-brown_terracotta
 Kd 0.3029 0.2007 0.1400
@@ -30,6 +31,7 @@ Kd 0.6590 0.6566 0.6585
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/skeleton/skeleton.png
 map_d tex/minecraft/entity/skeleton/skeleton_a.png
+d 0.99
 
 newmtl minecraft_block-terracotta
 Kd 0.5966 0.3687 0.2656
@@ -56,12 +58,14 @@ Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak_a.png
+d 0.99
 
 newmtl minecraft_block-yellow_stained_glass
 Kd 0.8980 0.8980 0.2000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/yellow_stained_glass.png
 map_d tex/minecraft/block/yellow_stained_glass_a.png
+d 0.99
 
 newmtl minecraft_block-white_terracotta
 Kd 0.8221 0.6982 0.6327
@@ -108,6 +112,7 @@ Kd 1.0000 1.0000 1.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/white_stained_glass.png
 map_d tex/minecraft/block/white_stained_glass_a.png
+d 0.99
 
 newmtl minecraft_block-black_wool
 Kd 0.0808 0.0835 0.1005

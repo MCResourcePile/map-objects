@@ -4,18 +4,21 @@ Kd 0.1614 0.3047 0.5906
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_flow.png
 map_d tex/minecraft/block/water_flow.png
+d 0.99
 
 newmtl minecraft_block-torch
 Kd 0.5445 0.4447 0.2508
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/torch.png
 map_d tex/minecraft/block/torch.png
+d 0.99
 
 newmtl minecraft_block-light_gray_stained_glass
 Kd 0.6000 0.6000 0.6000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/light_gray_stained_glass.png
 map_d tex/minecraft/block/light_gray_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-white_terracotta
 Kd 0.8221 0.6982 0.6327
@@ -57,12 +60,14 @@ Kd 0.1247 0.3194 0.0408
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/vine.png
 map_d tex/minecraft/block/vine.png
+d 0.99
 
 newmtl minecraft_block-ladder
 Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder.png
+d 0.99
 
 newmtl minecraft_block-dirt
 Kd 0.5265 0.3776 0.2627
@@ -89,6 +94,7 @@ Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still.png
+d 0.99
 
 newmtl minecraft_block-sand
 Kd 0.8594 0.8126 0.6396
@@ -105,6 +111,7 @@ Kd 0.2112 0.5280 0.0699
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_leaves.png
 map_d tex/minecraft/block/oak_leaves.png
+d 0.99
 
 newmtl minecraft_block-spruce_planks
 Kd 0.4507 0.3327 0.1904
@@ -116,6 +123,7 @@ Kd 0.4898 0.3900 0.2224
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_trapdoor.png
 map_d tex/minecraft/block/oak_trapdoor.png
+d 0.99
 
 newmtl minecraft_block-sandstone_bottom
 Kd 0.8458 0.7924 0.6047
@@ -127,6 +135,7 @@ Kd 0.3832 0.6486 0.1705
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/sugar_cane.png
 map_d tex/minecraft/block/sugar_cane.png
+d 0.99
 
 newmtl minecraft_block-oak_log_top
 Kd 0.5939 0.4771 0.2863
@@ -143,6 +152,7 @@ Kd 0.1571 0.3982 0.0528
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/grass.png
 map_d tex/minecraft/block/grass.png
+d 0.99
 
 newmtl minecraft_block-grass_block_side
 Kd 0.4972 0.4201 0.2572
@@ -169,6 +179,7 @@ Kd 0.2470 0.3879 0.2470
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/spruce_leaves.png
 map_d tex/minecraft/block/spruce_leaves.png
+d 0.99
 
 newmtl minecraft_block-chiseled_stone_bricks
 Kd 0.4697 0.4663 0.4697

@@ -4,6 +4,7 @@ Kd 0.5366 0.5459 0.5316
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/iron_bars.png
 map_d tex/minecraft/block/iron_bars.png
+d 0.99
 
 newmtl minecraft_block-pink_terracotta
 Kd 0.6350 0.3070 0.3085
@@ -15,6 +16,7 @@ Kd 0.4000 0.2980 0.2000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/brown_stained_glass.png
 map_d tex/minecraft/block/brown_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-green_terracotta
 Kd 0.2981 0.3266 0.1660
@@ -36,6 +38,7 @@ Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak.png
+d 0.99
 
 newmtl minecraft_block-blue_terracotta
 Kd 0.2913 0.2341 0.3573
@@ -102,6 +105,7 @@ Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder.png
+d 0.99
 
 newmtl minecraft_block-jungle_log_top
 Kd 0.5865 0.4287 0.2770

@@ -4,6 +4,7 @@ Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still.png
+d 0.99
 
 newmtl minecraft_block-white_wool
 Kd 0.9160 0.9267 0.9285
@@ -15,6 +16,7 @@ Kd 0.6000 0.2000 0.2000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/red_stained_glass.png
 map_d tex/minecraft/block/red_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-blue_wool
 Kd 0.2081 0.2245 0.6176
@@ -66,12 +68,14 @@ Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder.png
+d 0.99
 
 newmtl minecraft_block-white_stained_glass
 Kd 1.0000 1.0000 1.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/white_stained_glass.png
 map_d tex/minecraft/block/white_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-birch_planks
 Kd 0.7548 0.6874 0.4755
@@ -83,6 +87,7 @@ Kd 0.8964 0.9145 0.9191
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cobweb.png
 map_d tex/minecraft/block/cobweb.png
+d 0.99
 
 newmtl minecraft_block-red_wool
 Kd 0.6313 0.1542 0.1358
@@ -174,6 +179,7 @@ Kd 0.2000 0.2980 0.6980
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/blue_stained_glass.png
 map_d tex/minecraft/block/blue_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-acacia_log
 Kd 0.4049 0.3787 0.3409

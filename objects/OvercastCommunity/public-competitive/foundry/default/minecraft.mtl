@@ -9,12 +9,14 @@ Kd 0.1614 0.3047 0.5906
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_flow.png
 map_d tex/minecraft/block/water_flow.png
+d 0.99
 
 newmtl jmc2obj_block-redstone_dust_line0
 Kd 0.4098 0.0000 0.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/block/redstone_dust_line0.png
 map_d tex/jmc2obj/block/redstone_dust_line0.png
+d 0.99
 
 newmtl minecraft_block-soul_sand
 Kd 0.3192 0.2438 0.1988
@@ -26,6 +28,7 @@ Kd 0.2112 0.5280 0.0699
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_leaves.png
 map_d tex/minecraft/block/oak_leaves.png
+d 0.99
 
 newmtl minecraft_block-stone_bricks
 Kd 0.4802 0.4777 0.4802
@@ -57,6 +60,7 @@ Kd 0.1571 0.3982 0.0528
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/grass.png
 map_d tex/minecraft/block/grass.png
+d 0.99
 
 newmtl minecraft_block-smooth_stone
 Kd 0.6223 0.6223 0.6223
@@ -93,6 +97,7 @@ Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still.png
+d 0.99
 
 newmtl minecraft_block-gray_wool
 Kd 0.2461 0.2676 0.2806
@@ -109,6 +114,7 @@ Kd 0.5100 0.4511 0.3524
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/rail_corner.png
 map_d tex/minecraft/block/rail_corner.png
+d 0.99
 
 newmtl minecraft_block-gravel
 Kd 0.5174 0.4998 0.4961
@@ -120,6 +126,7 @@ Kd 0.4107 0.0000 0.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/block/redstone_dust_dot.png
 map_d tex/jmc2obj/block/redstone_dust_dot.png
+d 0.99
 
 newmtl minecraft_block-cyan_terracotta
 Kd 0.3401 0.3569 0.3569
@@ -131,6 +138,7 @@ Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder.png
+d 0.99
 
 newmtl minecraft_block-packed_ice
 Kd 0.5552 0.7059 0.9823
@@ -152,6 +160,7 @@ Kd 0.4931 0.4379 0.3473
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/rail.png
 map_d tex/minecraft/block/rail.png
+d 0.99
 
 newmtl minecraft_block-tnt_top
 Kd 0.5597 0.2438 0.2110
@@ -173,12 +182,14 @@ Kd 0.6590 0.6566 0.6585
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/skeleton/skeleton.png
 map_d tex/minecraft/entity/skeleton/skeleton.png
+d 0.99
 
 newmtl minecraft_block-oak_trapdoor
 Kd 0.4898 0.3900 0.2224
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_trapdoor.png
 map_d tex/minecraft/block/oak_trapdoor.png
+d 0.99
 
 newmtl minecraft_block-red_terracotta
 Kd 0.5612 0.2393 0.1839

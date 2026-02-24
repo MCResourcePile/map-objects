@@ -34,6 +34,7 @@ Kd 0.1428 0.1818 0.2463
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/spawner.png
 map_d tex/minecraft/block/spawner.png
+d 0.99
 
 newmtl minecraft_block-stone_bricks
 Kd 0.4802 0.4777 0.4802
@@ -45,6 +46,7 @@ Kd 0.5454 0.5290 0.5030
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-cr_black.png
 map_d tex/jmc2obj/banner/banner_base_white-cr_black.png
+d 0.99
 
 newmtl minecraft_block-sandstone
 Kd 0.8488 0.7971 0.6111
@@ -71,3 +73,4 @@ Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak.png
+d 0.99

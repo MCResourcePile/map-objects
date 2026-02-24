@@ -4,6 +4,7 @@ Kd 0.5445 0.4447 0.2508
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/torch.png
 map_d tex/minecraft/block/torch.png
+d 0.99
 
 newmtl minecraft_block-furnace_front
 Kd 0.3597 0.3578 0.3578
@@ -45,12 +46,14 @@ Kd 0.8964 0.9145 0.9191
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cobweb.png
 map_d tex/minecraft/block/cobweb.png
+d 0.99
 
 newmtl minecraft_block-iron_bars
 Kd 0.5366 0.5459 0.5316
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/iron_bars.png
 map_d tex/minecraft/block/iron_bars.png
+d 0.99
 
 newmtl minecraft_block-oak_planks
 Kd 0.6361 0.5130 0.3083
@@ -67,6 +70,7 @@ Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still.png
+d 0.99
 
 newmtl minecraft_block-dirt
 Kd 0.5265 0.3776 0.2627
@@ -83,6 +87,7 @@ Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder.png
+d 0.99
 
 newmtl minecraft_block-coarse_dirt
 Kd 0.4684 0.3357 0.2329
@@ -104,6 +109,7 @@ Kd 0.6336 0.4129 0.3097
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/bed/red.png
 map_d tex/minecraft/entity/bed/red.png
+d 0.99
 
 newmtl minecraft_block-spruce_planks
 Kd 0.4507 0.3327 0.1904
@@ -125,12 +131,14 @@ Kd 0.4898 0.3900 0.2224
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_trapdoor.png
 map_d tex/minecraft/block/oak_trapdoor.png
+d 0.99
 
 newmtl minecraft_entity-skeleton-skeleton
 Kd 0.6590 0.6566 0.6585
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/skeleton/skeleton.png
 map_d tex/minecraft/entity/skeleton/skeleton.png
+d 0.99
 
 newmtl minecraft_block-stone
 Kd 0.4923 0.4923 0.4923
@@ -142,6 +150,7 @@ Kd 0.7960 0.7931 0.7931
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/iron_trapdoor.png
 map_d tex/minecraft/block/iron_trapdoor.png
+d 0.99
 
 newmtl minecraft_block-crafting_table_side
 Kd 0.5042 0.4024 0.2478
@@ -153,6 +162,7 @@ Kd 0.8298 0.8134 0.7874
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white.png
 map_d tex/jmc2obj/banner/banner_base_white.png
+d 0.99
 
 newmtl minecraft_block-stone_bricks
 Kd 0.4802 0.4777 0.4802
@@ -164,12 +174,14 @@ Kd 0.6000 0.2000 0.2000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/red_stained_glass.png
 map_d tex/minecraft/block/red_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-blue_stained_glass
 Kd 0.2000 0.2980 0.6980
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/blue_stained_glass.png
 map_d tex/minecraft/block/blue_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-podzol_side
 Kd 0.4804 0.3439 0.2236
@@ -186,12 +198,14 @@ Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak.png
+d 0.99
 
 newmtl minecraft_block-dead_bush
 Kd 0.4215 0.3095 0.1590
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/dead_bush.png
 map_d tex/minecraft/block/dead_bush.png
+d 0.99
 
 newmtl minecraft_block-furnace_top
 Kd 0.4328 0.4303 0.4303

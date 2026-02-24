@@ -19,6 +19,7 @@ Kd 0.6000 0.6000 0.6000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/light_gray_stained_glass.png
 map_d tex/minecraft/block/light_gray_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-white_terracotta
 Kd 0.8221 0.6982 0.6327
@@ -30,6 +31,7 @@ Kd 0.4098 0.0000 0.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/block/redstone_dust_line0.png
 map_d tex/jmc2obj/block/redstone_dust_line0.png
+d 0.99
 
 newmtl minecraft_block-nether_bricks
 Kd 0.1737 0.0858 0.1023
@@ -46,12 +48,14 @@ Kd 0.8964 0.9145 0.9191
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cobweb.png
 map_d tex/minecraft/block/cobweb.png
+d 0.99
 
 newmtl minecraft_block-brown_stained_glass
 Kd 0.4000 0.2980 0.2000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/brown_stained_glass.png
 map_d tex/minecraft/block/brown_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-cyan_wool
 Kd 0.0833 0.5401 0.5700

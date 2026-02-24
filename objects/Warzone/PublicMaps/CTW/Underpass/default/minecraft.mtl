@@ -9,6 +9,7 @@ Kd 0.6719 0.3098 0.1727
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/redstone_torch.png
 map_d tex/minecraft/block/redstone_torch.png
+d 0.99
 
 newmtl minecraft_block-grass_block_top
 Kd 0.3640 0.5742 0.2261
@@ -30,6 +31,7 @@ Kd 0.1587 0.1587 0.1750
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cauldron_bottom.png
 map_d tex/minecraft/block/cauldron_bottom.png
+d 0.99
 
 newmtl minecraft_block-iron_block
 Kd 0.8632 0.8628 0.8628
@@ -41,6 +43,7 @@ Kd 0.6000 0.6000 0.6000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/light_gray_stained_glass.png
 map_d tex/minecraft/block/light_gray_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-polished_andesite
 Kd 0.5187 0.5284 0.5255
@@ -57,6 +60,7 @@ Kd 0.2112 0.5280 0.0699
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_leaves.png
 map_d tex/minecraft/block/oak_leaves.png
+d 0.99
 
 newmtl minecraft_block-cauldron_inner
 Kd 0.1930 0.1922 0.2089
@@ -78,6 +82,7 @@ Kd 0.1428 0.1818 0.2463
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/spawner.png
 map_d tex/minecraft/block/spawner.png
+d 0.99
 
 newmtl minecraft_block-grass_block_side
 Kd 0.4972 0.4201 0.2572
@@ -94,6 +99,7 @@ Kd 0.2179 0.5449 0.0703
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/acacia_leaves.png
 map_d tex/minecraft/block/acacia_leaves.png
+d 0.99
 
 newmtl minecraft_block-spruce_planks
 Kd 0.4507 0.3327 0.1904
@@ -110,12 +116,14 @@ Kd 0.1332 0.3414 0.0444
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/fern.png
 map_d tex/minecraft/block/fern.png
+d 0.99
 
 newmtl jmc2obj_block-redstone_dust_dot_on
 Kd 0.9313 0.0000 0.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/block/redstone_dust_dot_on.png
 map_d tex/jmc2obj/block/redstone_dust_dot_on.png
+d 0.99
 
 newmtl minecraft_block-red_terracotta
 Kd 0.5612 0.2393 0.1839
@@ -142,24 +150,28 @@ Kd 0.2980 0.2980 0.2980
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/gray_stained_glass.png
 map_d tex/minecraft/block/gray_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-cauldron_top
 Kd 0.2893 0.2852 0.2907
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cauldron_top.png
 map_d tex/minecraft/block/cauldron_top.png
+d 0.99
 
 newmtl jmc2obj_block-redstone_dust_line0_on
 Kd 0.9294 0.0000 0.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/block/redstone_dust_line0_on.png
 map_d tex/jmc2obj/block/redstone_dust_line0_on.png
+d 0.99
 
 newmtl minecraft_block-cobweb
 Kd 0.8964 0.9145 0.9191
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cobweb.png
 map_d tex/minecraft/block/cobweb.png
+d 0.99
 
 newmtl minecraft_block-piston_top
 Kd 0.6007 0.5003 0.3340
@@ -191,3 +203,4 @@ Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak.png
+d 0.99

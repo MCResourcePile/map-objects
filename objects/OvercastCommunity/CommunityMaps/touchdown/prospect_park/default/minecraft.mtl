@@ -9,6 +9,7 @@ Kd 0.4510 0.3420 0.2915
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/activator_rail.png
 map_d tex/minecraft/block/activator_rail_a.png
+d 0.99
 
 newmtl minecraft_block-clay
 Kd 0.6301 0.6528 0.7037
@@ -25,12 +26,14 @@ Kd 0.4898 0.3900 0.2224
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_trapdoor.png
 map_d tex/minecraft/block/oak_trapdoor_a.png
+d 0.99
 
 newmtl minecraft_block-grass
 Kd 0.1571 0.3982 0.0528
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/grass.png
 map_d tex/minecraft/block/grass_a.png
+d 0.99
 
 newmtl minecraft_block-chiseled_stone_bricks
 Kd 0.4697 0.4663 0.4697
@@ -42,6 +45,7 @@ Kd 0.7960 0.7931 0.7931
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/iron_trapdoor.png
 map_d tex/minecraft/block/iron_trapdoor_a.png
+d 0.99
 
 newmtl minecraft_block-spruce_log_top
 Kd 0.4267 0.3152 0.1836
@@ -73,18 +77,21 @@ Kd 0.5045 0.2542 0.1480
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/poppy.png
 map_d tex/minecraft/block/poppy_a.png
+d 0.99
 
 newmtl minecraft_block-jungle_leaves
 Kd 0.2298 0.5650 0.0683
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/jungle_leaves.png
 map_d tex/minecraft/block/jungle_leaves_a.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-tt_orange-bt_purple-mc_blue-cbo_white-bo_white
 Kd 0.6985 0.6257 0.6467
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-tt_orange-bt_purple-mc_blue-cbo_white-bo_white.png
 map_d tex/jmc2obj/banner/banner_base_white-tt_orange-bt_purple-mc_blue-cbo_white-bo_white_a.png
+d 0.99
 
 newmtl minecraft_block-spruce_planks
 Kd 0.4507 0.3327 0.1904
@@ -111,6 +118,7 @@ Kd 0.7033 0.7939 0.5622
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oxeye_daisy.png
 map_d tex/minecraft/block/oxeye_daisy_a.png
+d 0.99
 
 newmtl minecraft_block-grass_block_side
 Kd 0.4972 0.4201 0.2572
@@ -172,6 +180,7 @@ Kd 0.5593 0.5233 0.4628
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/tripwire_hook.png
 map_d tex/minecraft/block/tripwire_hook_a.png
+d 0.99
 
 newmtl minecraft_block-granite
 Kd 0.5860 0.4049 0.3371
@@ -198,12 +207,14 @@ Kd 0.2226 0.5298 0.1212
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/sunflower_bottom.png
 map_d tex/minecraft/block/sunflower_bottom_a.png
+d 0.99
 
 newmtl minecraft_block-brewing_stand
 Kd 0.4787 0.3955 0.3174
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/brewing_stand.png
 map_d tex/minecraft/block/brewing_stand_a.png
+d 0.99
 
 newmtl minecraft_block-green_wool
 Kd 0.3327 0.4296 0.1079
@@ -215,6 +226,7 @@ Kd 0.6590 0.6566 0.6585
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/skeleton/skeleton.png
 map_d tex/minecraft/entity/skeleton/skeleton_a.png
+d 0.99
 
 newmtl minecraft_block-bedrock
 Kd 0.3338 0.3338 0.3338
@@ -226,6 +238,7 @@ Kd 0.5100 0.4511 0.3524
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/rail_corner.png
 map_d tex/minecraft/block/rail_corner_a.png
+d 0.99
 
 newmtl minecraft_block-quartz_pillar
 Kd 0.9235 0.9047 0.8784
@@ -242,6 +255,7 @@ Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder_a.png
+d 0.99
 
 newmtl minecraft_block-black_wool
 Kd 0.0808 0.0835 0.1005
@@ -253,6 +267,7 @@ Kd 0.4931 0.4379 0.3473
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/rail.png
 map_d tex/minecraft/block/rail_a.png
+d 0.99
 
 newmtl minecraft_block-birch_planks
 Kd 0.7548 0.6874 0.4755
@@ -284,6 +299,7 @@ Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak_a.png
+d 0.99
 
 newmtl minecraft_block-stone
 Kd 0.4923 0.4923 0.4923
@@ -310,6 +326,7 @@ Kd 0.9652 0.9652 0.9652
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/white_stained_glass_pane_top.png
 map_d tex/minecraft/block/white_stained_glass_pane_top_a.png
+d 0.99
 
 newmtl minecraft_block-gray_terracotta
 Kd 0.2266 0.1663 0.1395
@@ -336,6 +353,7 @@ Kd 0.5366 0.5459 0.5316
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/iron_bars.png
 map_d tex/minecraft/block/iron_bars_a.png
+d 0.99
 
 newmtl minecraft_block-orange_wool
 Kd 0.9437 0.4631 0.0765
@@ -352,6 +370,7 @@ Kd 0.4980 0.8000 0.0980
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/lime_stained_glass.png
 map_d tex/minecraft/block/lime_stained_glass_a.png
+d 0.99
 
 newmtl minecraft_block-sandstone_top
 Kd 0.8778 0.8400 0.6680
@@ -363,6 +382,7 @@ Kd 0.5792 0.6755 0.1705
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/dandelion.png
 map_d tex/minecraft/block/dandelion_a.png
+d 0.99
 
 newmtl minecraft_block-iron_block
 Kd 0.8632 0.8628 0.8628
@@ -379,12 +399,14 @@ Kd 0.0946 0.0946 0.0946
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/black_stained_glass_pane_top.png
 map_d tex/minecraft/block/black_stained_glass_pane_top_a.png
+d 0.99
 
 newmtl minecraft_block-cauldron_top
 Kd 0.2893 0.2852 0.2907
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cauldron_top.png
 map_d tex/minecraft/block/cauldron_top_a.png
+d 0.99
 
 newmtl minecraft_block-mossy_stone_bricks
 Kd 0.4527 0.4750 0.4123
@@ -401,6 +423,7 @@ Kd 0.1332 0.3414 0.0444
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/fern.png
 map_d tex/minecraft/block/fern_a.png
+d 0.99
 
 newmtl minecraft_block-cyan_terracotta
 Kd 0.3401 0.3569 0.3569
@@ -412,6 +435,7 @@ Kd 0.4868 0.2690 0.2095
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/flower_pot.png
 map_d tex/minecraft/block/flower_pot_a.png
+d 0.99
 
 newmtl minecraft_block-oak_log_top
 Kd 0.5939 0.4771 0.2863
@@ -423,12 +447,14 @@ Kd 0.3836 0.5777 0.8180
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/light_blue_stained_glass_pane_top.png
 map_d tex/minecraft/block/light_blue_stained_glass_pane_top_a.png
+d 0.99
 
 newmtl minecraft_block-cyan_stained_glass_pane_top
 Kd 0.2888 0.4821 0.5777
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cyan_stained_glass_pane_top.png
 map_d tex/minecraft/block/cyan_stained_glass_pane_top_a.png
+d 0.99
 
 newmtl minecraft_block-redstone_lamp_on
 Kd 0.5602 0.3994 0.2378
@@ -440,18 +466,21 @@ Kd 0.6234 0.5381 0.7213
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/allium.png
 map_d tex/minecraft/block/allium_a.png
+d 0.99
 
 newmtl minecraft_block-gray_stained_glass
 Kd 0.2980 0.2980 0.2980
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/gray_stained_glass.png
 map_d tex/minecraft/block/gray_stained_glass_a.png
+d 0.99
 
 newmtl minecraft_block-lever
 Kd 0.4365 0.3663 0.2631
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/lever.png
 map_d tex/minecraft/block/lever_a.png
+d 0.99
 
 newmtl minecraft_block-dirt
 Kd 0.5265 0.3776 0.2627
@@ -488,12 +517,14 @@ Kd 0.3351 0.4337 0.2231
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/birch_leaves.png
 map_d tex/minecraft/block/birch_leaves_a.png
+d 0.99
 
 newmtl minecraft_block-azure_bluet
 Kd 0.6643 0.8020 0.4996
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/azure_bluet.png
 map_d tex/minecraft/block/azure_bluet_a.png
+d 0.99
 
 newmtl minecraft_block-brewing_stand_base
 Kd 0.4569 0.4152 0.4152
@@ -525,6 +556,7 @@ Kd 1.0000 1.0000 1.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/white_stained_glass.png
 map_d tex/minecraft/block/white_stained_glass_a.png
+d 0.99
 
 newmtl minecraft_block-polished_diorite
 Kd 0.7568 0.7572 0.7629
@@ -546,6 +578,7 @@ Kd 0.5692 0.4187 0.4219
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-gra_red-ms_blue-cr_blue-mc_blue-mc_blue-mc_black-gra_red-mc_black-bt_white.png
 map_d tex/jmc2obj/banner/banner_base_white-gra_red-ms_blue-cr_blue-mc_blue-mc_blue-mc_black-gra_red-mc_black-bt_white_a.png
+d 0.99
 
 newmtl minecraft_block-smooth_stone
 Kd 0.6223 0.6223 0.6223
@@ -557,12 +590,14 @@ Kd 0.1614 0.3047 0.5906
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_flow.png
 map_d tex/minecraft/block/water_flow_a.png
+d 0.99
 
 newmtl minecraft_block-glass
 Kd 0.6895 0.8389 0.8589
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/glass.png
 map_d tex/minecraft/block/glass_a.png
+d 0.99
 
 newmtl minecraft_block-light_gray_wool
 Kd 0.5570 0.5575 0.5278
@@ -579,3 +614,4 @@ Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still_a.png
+d 0.99

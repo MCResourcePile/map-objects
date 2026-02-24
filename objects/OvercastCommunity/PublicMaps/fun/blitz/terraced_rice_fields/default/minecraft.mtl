@@ -19,12 +19,14 @@ Kd 0.6536 0.5945 0.2869
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/wheat_stage7.png
 map_d tex/minecraft/block/wheat_stage7.png
+d 0.99
 
 newmtl minecraft_block-ladder
 Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder.png
+d 0.99
 
 newmtl minecraft_block-bedrock
 Kd 0.3338 0.3338 0.3338
@@ -36,12 +38,14 @@ Kd 0.5792 0.6755 0.1705
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/dandelion.png
 map_d tex/minecraft/block/dandelion.png
+d 0.99
 
 newmtl minecraft_block-wheat_stage5
 Kd 0.2499 0.5061 0.0730
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/wheat_stage5.png
 map_d tex/minecraft/block/wheat_stage5.png
+d 0.99
 
 newmtl minecraft_block-farmland_moist
 Kd 0.3213 0.1744 0.0608
@@ -53,6 +57,7 @@ Kd 0.5445 0.4447 0.2508
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/torch.png
 map_d tex/minecraft/block/torch.png
+d 0.99
 
 newmtl minecraft_block-stone
 Kd 0.4923 0.4923 0.4923
@@ -64,6 +69,7 @@ Kd 0.1455 0.5211 0.0718
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/wheat_stage4.png
 map_d tex/minecraft/block/wheat_stage4.png
+d 0.99
 
 newmtl minecraft_block-smooth_stone
 Kd 0.6223 0.6223 0.6223
@@ -100,6 +106,7 @@ Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still.png
+d 0.99
 
 newmtl minecraft_block-quartz_block_top
 Kd 0.9246 0.9016 0.8743
@@ -131,24 +138,28 @@ Kd 0.5045 0.2542 0.1480
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/poppy.png
 map_d tex/minecraft/block/poppy.png
+d 0.99
 
 newmtl minecraft_block-wheat_stage6
 Kd 0.5568 0.5224 0.1460
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/wheat_stage6.png
 map_d tex/minecraft/block/wheat_stage6.png
+d 0.99
 
 newmtl minecraft_block-oak_leaves
 Kd 0.2112 0.5280 0.0699
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_leaves.png
 map_d tex/minecraft/block/oak_leaves.png
+d 0.99
 
 newmtl minecraft_entity-bed-red
 Kd 0.6336 0.4129 0.3097
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/bed/red.png
 map_d tex/minecraft/entity/bed/red.png
+d 0.99
 
 newmtl minecraft_block-sponge
 Kd 0.7680 0.7535 0.2926
@@ -160,12 +171,14 @@ Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak.png
+d 0.99
 
 newmtl minecraft_block-grass
 Kd 0.1571 0.3982 0.0528
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/grass.png
 map_d tex/minecraft/block/grass.png
+d 0.99
 
 newmtl minecraft_block-quartz_block_side
 Kd 0.9246 0.9016 0.8743
@@ -192,6 +205,7 @@ Kd 0.0413 0.5130 0.0522
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/wheat_stage3.png
 map_d tex/minecraft/block/wheat_stage3.png
+d 0.99
 
 newmtl minecraft_block-white_wool
 Kd 0.9160 0.9267 0.9285

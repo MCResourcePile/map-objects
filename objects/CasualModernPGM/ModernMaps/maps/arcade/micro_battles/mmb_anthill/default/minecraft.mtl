@@ -4,6 +4,7 @@ Kd 0.7966 0.5959 0.4778
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cake_side.png
 map_d tex/minecraft/block/cake_side_a.png
+d 0.99
 
 newmtl minecraft_block-spruce_planks
 Kd 0.4507 0.3327 0.1904
@@ -15,12 +16,14 @@ Kd 0.6020 0.4581 0.3627
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/brown_mushroom.png
 map_d tex/minecraft/block/brown_mushroom_a.png
+d 0.99
 
 newmtl minecraft_block-glass
 Kd 0.6895 0.8389 0.8589
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/glass.png
 map_d tex/minecraft/block/glass_a.png
+d 0.99
 
 newmtl minecraft_block-oak_planks
 Kd 0.6361 0.5130 0.3083
@@ -32,6 +35,7 @@ Kd 0.1247 0.3194 0.0408
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/vine.png
 map_d tex/minecraft/block/vine_a.png
+d 0.99
 
 newmtl minecraft_block-birch_planks
 Kd 0.7548 0.6874 0.4755
@@ -53,6 +57,7 @@ Kd 0.5593 0.5233 0.4628
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/tripwire_hook.png
 map_d tex/minecraft/block/tripwire_hook_a.png
+d 0.99
 
 newmtl minecraft_block-dirt
 Kd 0.5265 0.3776 0.2627
@@ -84,6 +89,7 @@ Kd 0.8964 0.9145 0.9191
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cobweb.png
 map_d tex/minecraft/block/cobweb_a.png
+d 0.99
 
 newmtl minecraft_block-jungle_planks
 Kd 0.6292 0.4517 0.3168
@@ -105,12 +111,14 @@ Kd 0.2112 0.5280 0.0699
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_leaves.png
 map_d tex/minecraft/block/oak_leaves_a.png
+d 0.99
 
 newmtl minecraft_block-turtle_egg
 Kd 0.8942 0.8898 0.7523
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/turtle_egg.png
 map_d tex/minecraft/block/turtle_egg_a.png
+d 0.99
 
 newmtl minecraft_block-lava_flow
 Kd 0.8129 0.3601 0.0808
@@ -122,6 +130,7 @@ Kd 0.4119 0.3043 0.1372
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/chest/normal.png
 map_d tex/minecraft/entity/chest/normal_a.png
+d 0.99
 
 newmtl minecraft_block-grass_block_top
 Kd 0.3640 0.5742 0.2261
@@ -138,6 +147,7 @@ Kd 0.9729 0.8730 0.8400
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cake_top.png
 map_d tex/minecraft/block/cake_top_a.png
+d 0.99
 
 newmtl minecraft_block-lava_still
 Kd 0.8504 0.4100 0.1033
@@ -149,3 +159,4 @@ Kd 0.3655 0.3356 0.3059
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/head/player_741aa733e511ef150205588f276add8efcf2c54168ced1d432f5a3d931cde9a9.png
 map_d tex/jmc2obj/head/player_741aa733e511ef150205588f276add8efcf2c54168ced1d432f5a3d931cde9a9_a.png
+d 0.99

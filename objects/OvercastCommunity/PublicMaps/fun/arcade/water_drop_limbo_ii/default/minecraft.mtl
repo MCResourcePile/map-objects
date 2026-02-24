@@ -14,6 +14,7 @@ Kd 0.9652 0.9652 0.9652
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/white_stained_glass_pane_top.png
 map_d tex/minecraft/block/white_stained_glass_pane_top.png
+d 0.99
 
 newmtl minecraft_block-white_terracotta
 Kd 0.8221 0.6982 0.6327
@@ -30,6 +31,7 @@ Kd 1.0000 1.0000 1.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/white_stained_glass.png
 map_d tex/minecraft/block/white_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-quartz_block_top
 Kd 0.9246 0.9016 0.8743

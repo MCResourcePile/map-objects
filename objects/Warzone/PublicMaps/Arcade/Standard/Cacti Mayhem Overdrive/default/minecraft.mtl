@@ -4,6 +4,7 @@ Kd 0.6895 0.8389 0.8589
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/glass.png
 map_d tex/minecraft/block/glass.png
+d 0.99
 
 newmtl minecraft_block-quartz_pillar_top
 Kd 0.9220 0.9012 0.8743
@@ -40,6 +41,7 @@ Kd 0.1614 0.3047 0.5906
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_flow.png
 map_d tex/minecraft/block/water_flow.png
+d 0.99
 
 newmtl minecraft_block-sandstone
 Kd 0.8488 0.7971 0.6111
@@ -56,12 +58,14 @@ Kd 0.3472 0.5102 0.1777
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cactus_side.png
 map_d tex/minecraft/block/cactus_side.png
+d 0.99
 
 newmtl minecraft_block-cactus_top
 Kd 0.3368 0.4983 0.1696
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cactus_top.png
 map_d tex/minecraft/block/cactus_top.png
+d 0.99
 
 newmtl minecraft_block-black_wool
 Kd 0.0808 0.0835 0.1005
@@ -88,12 +92,14 @@ Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still.png
+d 0.99
 
 newmtl minecraft_block-grass
 Kd 0.1571 0.3982 0.0528
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/grass.png
 map_d tex/minecraft/block/grass.png
+d 0.99
 
 newmtl minecraft_block-red_sand
 Kd 0.7477 0.4038 0.1301
@@ -135,6 +141,7 @@ Kd 0.2298 0.5650 0.0683
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/jungle_leaves.png
 map_d tex/minecraft/block/jungle_leaves.png
+d 0.99
 
 newmtl minecraft_block-smooth_stone
 Kd 0.6223 0.6223 0.6223
@@ -161,6 +168,7 @@ Kd 0.5613 0.6681 0.3370
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cactus_bottom.png
 map_d tex/minecraft/block/cactus_bottom.png
+d 0.99
 
 newmtl minecraft_block-gray_wool
 Kd 0.2461 0.2676 0.2806

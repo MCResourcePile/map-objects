@@ -4,6 +4,7 @@ Kd 0.5251 0.2448 0.1278
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cake_bottom.png
 map_d tex/minecraft/block/cake_bottom.png
+d 0.99
 
 newmtl minecraft_block-white_wool
 Kd 0.9160 0.9267 0.9285
@@ -30,6 +31,7 @@ Kd 0.6449 0.5205 0.2296
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-bo_yellow-tt_black-bt_black-ss_yellow-cs_orange.png
 map_d tex/jmc2obj/banner/banner_base_white-bo_yellow-tt_black-bt_black-ss_yellow-cs_orange.png
+d 0.99
 
 newmtl minecraft_block-grass_block_top
 Kd 0.3640 0.5742 0.2261
@@ -51,6 +53,7 @@ Kd 0.5045 0.2542 0.1480
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/poppy.png
 map_d tex/minecraft/block/poppy.png
+d 0.99
 
 newmtl minecraft_block-crafting_table_front
 Kd 0.5068 0.4140 0.2758
@@ -62,6 +65,7 @@ Kd 0.6643 0.8020 0.4996
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/azure_bluet.png
 map_d tex/minecraft/block/azure_bluet.png
+d 0.99
 
 newmtl minecraft_block-crafting_table_top
 Kd 0.4697 0.2872 0.1665
@@ -73,6 +77,7 @@ Kd 0.7960 0.7931 0.7931
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/iron_trapdoor.png
 map_d tex/minecraft/block/iron_trapdoor.png
+d 0.99
 
 newmtl minecraft_block-dragon_egg
 Kd 0.0492 0.0370 0.0616
@@ -84,12 +89,14 @@ Kd 0.6676 0.8241 0.8522
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/glass_pane_top.png
 map_d tex/minecraft/block/glass_pane_top.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-mc_red-flo_black-flo_blue-ts_black-bs_black-ls_brown-rs_brown
 Kd 0.3143 0.2433 0.1857
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-mc_red-flo_black-flo_blue-ts_black-bs_black-ls_brown-rs_brown.png
 map_d tex/jmc2obj/banner/banner_base_white-mc_red-flo_black-flo_blue-ts_black-bs_black-ls_brown-rs_brown.png
+d 0.99
 
 newmtl minecraft_block-bedrock
 Kd 0.3338 0.3338 0.3338
@@ -121,6 +128,7 @@ Kd 0.6305 0.4035 0.1967
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-dls_orange-cbo_black-mr_black-hhb_orange-vh_orange.png
 map_d tex/jmc2obj/banner/banner_base_white-dls_orange-cbo_black-mr_black-hhb_orange-vh_orange.png
+d 0.99
 
 newmtl minecraft_block-dirt
 Kd 0.5265 0.3776 0.2627
@@ -137,12 +145,14 @@ Kd 0.7513 0.5558 0.3761
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-bs_orange-ts_orange.png
 map_d tex/jmc2obj/banner/banner_base_white-bs_orange-ts_orange.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-ms_orange-bo_black-cr_orange-ts_orange-bs_orange
 Kd 0.6631 0.4257 0.2100
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ms_orange-bo_black-cr_orange-ts_orange-bs_orange.png
 map_d tex/jmc2obj/banner/banner_base_white-ms_orange-bo_black-cr_orange-ts_orange-bs_orange.png
+d 0.99
 
 newmtl minecraft_block-bookshelf
 Kd 0.4605 0.3708 0.2346
@@ -169,6 +179,7 @@ Kd 0.6593 0.4350 0.2604
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-sc_blue-vh_orange-cr_blue-ts_orange-bs_orange-bo_orange.png
 map_d tex/jmc2obj/banner/banner_base_white-sc_blue-vh_orange-cr_blue-ts_orange-bs_orange-bo_orange.png
+d 0.99
 
 newmtl minecraft_block-jukebox_top
 Kd 0.3678 0.2526 0.1855
@@ -180,12 +191,14 @@ Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak.png
+d 0.99
 
 newmtl minecraft_block-cauldron_top
 Kd 0.2893 0.2852 0.2907
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cauldron_top.png
 map_d tex/minecraft/block/cauldron_top.png
+d 0.99
 
 newmtl minecraft_block-crafting_table_side
 Kd 0.5042 0.4024 0.2478
@@ -197,24 +210,28 @@ Kd 0.8298 0.8134 0.7874
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white.png
 map_d tex/jmc2obj/banner/banner_base_white.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-ss_orange-tt_yellow
 Kd 0.7707 0.6438 0.4221
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ss_orange-tt_yellow.png
 map_d tex/jmc2obj/banner/banner_base_white-ss_orange-tt_yellow.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-mr_black-cr_yellow-hhb_yellow-lud_blue-ls_yellow-bts_yellow
 Kd 0.6653 0.6058 0.3460
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-mr_black-cr_yellow-hhb_yellow-lud_blue-ls_yellow-bts_yellow.png
 map_d tex/jmc2obj/banner/banner_base_white-mr_black-cr_yellow-hhb_yellow-lud_blue-ls_yellow-bts_yellow.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-tt_white-bt_white-cr_blue
 Kd 0.6022 0.6137 0.7017
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-tt_white-bt_white-cr_blue.png
 map_d tex/jmc2obj/banner/banner_base_white-tt_white-bt_white-cr_blue.png
+d 0.99
 
 newmtl minecraft_block-cauldron_side
 Kd 0.2907 0.2877 0.2929
@@ -236,6 +253,7 @@ Kd 0.4898 0.3900 0.2224
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/oak_trapdoor.png
 map_d tex/minecraft/block/oak_trapdoor.png
+d 0.99
 
 newmtl minecraft_block-bricks
 Kd 0.5920 0.3826 0.3257
@@ -252,6 +270,7 @@ Kd 0.6590 0.6566 0.6585
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/skeleton/skeleton.png
 map_d tex/minecraft/entity/skeleton/skeleton.png
+d 0.99
 
 newmtl minecraft_block-jungle_log
 Kd 0.3342 0.2666 0.0987
@@ -273,30 +292,35 @@ Kd 0.7966 0.5959 0.4778
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cake_side.png
 map_d tex/minecraft/block/cake_side.png
+d 0.99
 
 newmtl minecraft_block-dead_bush
 Kd 0.4215 0.3095 0.1590
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/dead_bush.png
 map_d tex/minecraft/block/dead_bush.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-lud_yellow-ts_black-bs_black-cbo_white-bo_black-cbo_black
 Kd 0.2241 0.1991 0.1285
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-lud_yellow-ts_black-bs_black-cbo_white-bo_black-cbo_black.png
 map_d tex/jmc2obj/banner/banner_base_white-lud_yellow-ts_black-bs_black-cbo_white-bo_black-cbo_black.png
+d 0.99
 
 newmtl minecraft_block-dandelion
 Kd 0.5792 0.6755 0.1705
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/dandelion.png
 map_d tex/minecraft/block/dandelion.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-cr_black
 Kd 0.5454 0.5290 0.5030
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-cr_black.png
 map_d tex/jmc2obj/banner/banner_base_white-cr_black.png
+d 0.99
 
 newmtl minecraft_block-sandstone_bottom
 Kd 0.8458 0.7924 0.6047
@@ -313,12 +337,14 @@ Kd 0.6695 0.5348 0.5309
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ls_magenta-rs_yellow-mc_blue.png
 map_d tex/jmc2obj/banner/banner_base_white-ls_magenta-rs_yellow-mc_blue.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-mr_black-flo_yellow-bs_blue-ts_black
 Kd 0.3173 0.3124 0.3188
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-mr_black-flo_yellow-bs_blue-ts_black.png
 map_d tex/jmc2obj/banner/banner_base_white-mr_black-flo_yellow-bs_blue-ts_black.png
+d 0.99
 
 newmtl minecraft_block-yellow_terracotta
 Kd 0.7305 0.5221 0.1387
@@ -340,6 +366,7 @@ Kd 0.7507 0.6412 0.2138
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ss_orange-ls_yellow-vhr_yellow-mc_blue-mc_yellow.png
 map_d tex/jmc2obj/banner/banner_base_white-ss_orange-ls_yellow-vhr_yellow-mc_blue-mc_yellow.png
+d 0.99
 
 newmtl minecraft_block-sandstone_top
 Kd 0.8778 0.8400 0.6680
@@ -351,18 +378,21 @@ Kd 0.5445 0.4447 0.2508
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/torch.png
 map_d tex/minecraft/block/torch.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-mr_blue-mr_blue-mr_blue-mr_blue-mc_yellow-mc_yellow-mc_yellow-mc_yellow
 Kd 0.7550 0.7374 0.6962
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-mr_blue-mr_blue-mr_blue-mr_blue-mc_yellow-mc_yellow-mc_yellow-mc_yellow.png
 map_d tex/jmc2obj/banner/banner_base_white-mr_blue-mr_blue-mr_blue-mr_blue-mc_yellow-mc_yellow-mc_yellow-mc_yellow.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-vhr_red-bs_black-ts_black-ls_orange-rs_orange
 Kd 0.5757 0.3652 0.1865
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-vhr_red-bs_black-ts_black-ls_orange-rs_orange.png
 map_d tex/jmc2obj/banner/banner_base_white-vhr_red-bs_black-ts_black-ls_orange-rs_orange.png
+d 0.99
 
 newmtl minecraft_block-stone
 Kd 0.4923 0.4923 0.4923
@@ -374,6 +404,7 @@ Kd 0.7063 0.4350 0.2745
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-sc_magenta-vh_orange-cr_magenta-ts_orange-bs_orange-bo_orange.png
 map_d tex/jmc2obj/banner/banner_base_white-sc_magenta-vh_orange-cr_magenta-ts_orange-bs_orange-bo_orange.png
+d 0.99
 
 newmtl minecraft_block-coal_block
 Kd 0.0628 0.0624 0.0624
@@ -385,6 +416,7 @@ Kd 0.9729 0.8730 0.8400
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cake_top.png
 map_d tex/minecraft/block/cake_top.png
+d 0.99
 
 newmtl minecraft_block-jungle_planks
 Kd 0.6292 0.4517 0.3168
@@ -416,12 +448,14 @@ Kd 0.7773 0.6569 0.4769
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-vhr_yellow-rs_orange.png
 map_d tex/jmc2obj/banner/banner_base_white-vhr_yellow-rs_orange.png
+d 0.99
 
 newmtl minecraft_block-large_fern_bottom
 Kd 0.1409 0.3617 0.0471
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/large_fern_bottom.png
 map_d tex/minecraft/block/large_fern_bottom.png
+d 0.99
 
 newmtl minecraft_block-red_wool
 Kd 0.6313 0.1542 0.1358
@@ -433,12 +467,14 @@ Kd 0.5249 0.4943 0.3947
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ss_black-tl_yellow.png
 map_d tex/jmc2obj/banner/banner_base_white-ss_black-tl_yellow.png
+d 0.99
 
 newmtl minecraft_block-jungle_leaves
 Kd 0.2298 0.5650 0.0683
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/jungle_leaves.png
 map_d tex/minecraft/block/jungle_leaves.png
+d 0.99
 
 newmtl minecraft_block-grass_block_side
 Kd 0.4972 0.4201 0.2572
@@ -460,6 +496,7 @@ Kd 0.6707 0.5121 0.5703
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ss_blue-ls_magenta-rs_orange-tt_blue-tt_blue-tt_white.png
 map_d tex/jmc2obj/banner/banner_base_white-ss_blue-ls_magenta-rs_orange-tt_blue-tt_blue-tt_white.png
+d 0.99
 
 newmtl minecraft_block-piston_side
 Kd 0.4310 0.4106 0.3785
@@ -471,18 +508,21 @@ Kd 0.6273 0.4920 0.3661
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-flo_blue-mc_blue-vhr_yellow-rs_black-tts_orange-bts_orange-tr_orange-br_orange.png
 map_d tex/jmc2obj/banner/banner_base_white-flo_blue-mc_blue-vhr_yellow-rs_black-tts_orange-bts_orange-tr_orange-br_orange.png
+d 0.99
 
 newmtl minecraft_block-vine
 Kd 0.1247 0.3194 0.0408
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/vine.png
 map_d tex/minecraft/block/vine.png
+d 0.99
 
 newmtl minecraft_block-water_still
 Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still.png
+d 0.99
 
 newmtl minecraft_block-spruce_planks
 Kd 0.4507 0.3327 0.1904
@@ -494,9 +534,11 @@ Kd 0.1571 0.3982 0.0528
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/grass.png
 map_d tex/minecraft/block/grass.png
+d 0.99
 
 newmtl minecraft_block-flower_pot
 Kd 0.4868 0.2690 0.2095
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/flower_pot.png
 map_d tex/minecraft/block/flower_pot.png
+d 0.99

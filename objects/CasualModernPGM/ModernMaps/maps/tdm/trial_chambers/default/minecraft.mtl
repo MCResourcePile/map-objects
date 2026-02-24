@@ -34,18 +34,21 @@ Kd 0.1505 0.1486 0.1509
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/enderdragon/dragon.png
 map_d tex/minecraft/entity/enderdragon/dragon_a.png
+d 0.99
 
 newmtl minecraft_entity-signs-hanging-dark_oak
 Kd 0.2673 0.2207 0.1651
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/hanging/dark_oak.png
 map_d tex/minecraft/entity/signs/hanging/dark_oak_a.png
+d 0.99
 
 newmtl minecraft_block-chain
 Kd 0.2015 0.2272 0.2917
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/chain.png
 map_d tex/minecraft/block/chain_a.png
+d 0.99
 
 newmtl minecraft_block-target_top
 Kd 0.8878 0.6679 0.6188

@@ -4,6 +4,7 @@ Kd 0.9225 0.8254 0.6805
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/candle_lit.png
 map_d tex/minecraft/block/candle_lit_a.png
+d 0.99
 
 newmtl minecraft_block-redstone_lamp
 Kd 0.3734 0.2142 0.1179
@@ -25,6 +26,7 @@ Kd 0.2780 0.3879 0.4488
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/soul_lantern.png
 map_d tex/minecraft/block/soul_lantern_a.png
+d 0.99
 
 newmtl minecraft_block-soul_sand
 Kd 0.3192 0.2438 0.1988
@@ -36,6 +38,7 @@ Kd 0.7798 0.8048 0.6649
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/sculk_shrieker_top.png
 map_d tex/minecraft/block/sculk_shrieker_top_a.png
+d 0.99
 
 newmtl minecraft_block-black_concrete
 Kd 0.0330 0.0408 0.0604
@@ -82,12 +85,14 @@ Kd 0.2134 0.7675 0.7857
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/soul_fire_1.png
 map_d tex/minecraft/block/soul_fire_1_a.png
+d 0.99
 
 newmtl minecraft_block-sculk_sensor_side
 Kd 0.0408 0.1531 0.1858
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/sculk_sensor_side.png
 map_d tex/minecraft/block/sculk_sensor_side_a.png
+d 0.99
 
 newmtl minecraft_block-cracked_deepslate_bricks
 Kd 0.2548 0.2545 0.2559
@@ -119,6 +124,7 @@ Kd 0.9102 0.7866 0.6011
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/candle.png
 map_d tex/minecraft/block/candle_a.png
+d 0.99
 
 newmtl minecraft_block-sculk_sensor_top
 Kd 0.0280 0.2746 0.3309
@@ -130,12 +136,14 @@ Kd 0.2946 0.3964 0.3742
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/sculk_shrieker_side.png
 map_d tex/minecraft/block/sculk_shrieker_side_a.png
+d 0.99
 
 newmtl minecraft_block-tripwire
 Kd 0.5063 0.5063 0.5063
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/tripwire.png
 map_d tex/minecraft/block/tripwire_a.png
+d 0.99
 
 newmtl minecraft_block-reinforced_deepslate_side
 Kd 0.4017 0.4288 0.3961
@@ -152,6 +160,7 @@ Kd 0.0544 0.2409 0.2836
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/sculk_sensor_tendril_inactive.png
 map_d tex/minecraft/block/sculk_sensor_tendril_inactive_a.png
+d 0.99
 
 newmtl minecraft_block-gray_wool
 Kd 0.2461 0.2676 0.2806
@@ -173,18 +182,21 @@ Kd 0.1680 0.3193 0.6148
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/water_still.png
 map_d tex/minecraft/block/water_still_a.png
+d 0.99
 
 newmtl minecraft_block-soul_fire_0
 Kd 0.2769 0.8082 0.8252
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/soul_fire_0.png
 map_d tex/minecraft/block/soul_fire_0_a.png
+d 0.99
 
 newmtl minecraft_block-tripwire_hook
 Kd 0.5593 0.5233 0.4628
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/tripwire_hook.png
 map_d tex/minecraft/block/tripwire_hook_a.png
+d 0.99
 
 newmtl minecraft_block-note_block
 Kd 0.3481 0.2312 0.1600

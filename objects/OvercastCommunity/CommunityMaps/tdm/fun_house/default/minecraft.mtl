@@ -34,6 +34,7 @@ Kd 0.8471 0.4980 0.2000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/orange_stained_glass.png
 map_d tex/minecraft/block/orange_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-orange_concrete_powder
 Kd 0.8913 0.5171 0.1251
@@ -60,6 +61,7 @@ Kd 0.2980 0.4980 0.6000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cyan_stained_glass.png
 map_d tex/minecraft/block/cyan_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-weathered_copper
 Kd 0.4247 0.6000 0.4328
@@ -76,6 +78,7 @@ Kd 0.2015 0.2272 0.2917
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/chain.png
 map_d tex/minecraft/block/chain.png
+d 0.99
 
 newmtl minecraft_block-quartz_pillar_top
 Kd 0.9220 0.9012 0.8743
@@ -87,6 +90,7 @@ Kd 0.4000 0.2980 0.2000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/brown_stained_glass.png
 map_d tex/minecraft/block/brown_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-purple_concrete_powder
 Kd 0.5173 0.2183 0.6965
@@ -133,6 +137,7 @@ Kd 0.0101 0.0167 0.0085
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528.png
 map_d tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528.png
+d 0.99
 
 newmtl minecraft_block-quartz_block_bottom
 Kd 0.9288 0.9034 0.8781
@@ -144,12 +149,14 @@ Kd 1.0000 1.0000 1.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/white_stained_glass.png
 map_d tex/minecraft/block/white_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-ladder
 Kd 0.4888 0.3790 0.2144
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/ladder.png
 map_d tex/minecraft/block/ladder.png
+d 0.99
 
 newmtl minecraft_block-orange_concrete
 Kd 0.8798 0.3809 0.0025
@@ -161,6 +168,7 @@ Kd 0.3559 0.2813 0.2693
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/head/player_zzuf_7fb043613dab526204cd9cb1cf6d236f3d440e5b80939ed50c2501e305c20974.png
 map_d tex/jmc2obj/head/player_zzuf_7fb043613dab526204cd9cb1cf6d236f3d440e5b80939ed50c2501e305c20974.png
+d 0.99
 
 newmtl minecraft_block-quartz_block_side
 Kd 0.9246 0.9016 0.8743
@@ -182,3 +190,4 @@ Kd 0.4980 0.2471 0.6980
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/purple_stained_glass.png
 map_d tex/minecraft/block/purple_stained_glass.png
+d 0.99

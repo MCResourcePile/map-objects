@@ -9,18 +9,21 @@ Kd 0.8964 0.9145 0.9191
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cobweb.png
 map_d tex/minecraft/block/cobweb_a.png
+d 0.99
 
 newmtl minecraft_block-soul_fire_0
 Kd 0.2769 0.8082 0.8252
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/soul_fire_0.png
 map_d tex/minecraft/block/soul_fire_0_a.png
+d 0.99
 
 newmtl minecraft_block-warped_fungus
 Kd 0.2910 0.4277 0.3449
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/warped_fungus.png
 map_d tex/minecraft/block/warped_fungus_a.png
+d 0.99
 
 newmtl minecraft_block-netherite_block
 Kd 0.2609 0.2412 0.2505
@@ -37,12 +40,14 @@ Kd 0.5777 0.1903 0.1903
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/red_stained_glass_pane_top.png
 map_d tex/minecraft/block/red_stained_glass_pane_top_a.png
+d 0.99
 
 newmtl minecraft_block-cyan_stained_glass_pane_top
 Kd 0.2888 0.4821 0.5777
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cyan_stained_glass_pane_top.png
 map_d tex/minecraft/block/cyan_stained_glass_pane_top_a.png
+d 0.99
 
 newmtl minecraft_block-smooth_basalt
 Kd 0.2850 0.2835 0.3067
@@ -64,6 +69,7 @@ Kd 0.7591 0.6775 0.3118
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/scaffolding_bottom.png
 map_d tex/minecraft/block/scaffolding_bottom_a.png
+d 0.99
 
 newmtl minecraft_block-crimson_nylium_side
 Kd 0.4206 0.1056 0.1046
@@ -85,6 +91,7 @@ Kd 0.8502 0.5922 0.2121
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/fire_1.png
 map_d tex/minecraft/block/fire_1_a.png
+d 0.99
 
 newmtl minecraft_block-cracked_polished_blackstone_bricks
 Kd 0.1727 0.1475 0.1723
@@ -136,18 +143,21 @@ Kd 0.6719 0.3098 0.1727
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/redstone_torch.png
 map_d tex/minecraft/block/redstone_torch_a.png
+d 0.99
 
 newmtl minecraft_block-scaffolding_side
 Kd 0.7557 0.6674 0.3089
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/scaffolding_side.png
 map_d tex/minecraft/block/scaffolding_side_a.png
+d 0.99
 
 newmtl minecraft_block-cyan_stained_glass
 Kd 0.2980 0.4980 0.6000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/cyan_stained_glass.png
 map_d tex/minecraft/block/cyan_stained_glass_a.png
+d 0.99
 
 newmtl minecraft_block-obsidian
 Kd 0.0594 0.0416 0.0963
@@ -159,12 +169,14 @@ Kd 0.7960 0.7931 0.7931
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/iron_trapdoor.png
 map_d tex/minecraft/block/iron_trapdoor_a.png
+d 0.99
 
 newmtl minecraft_block-warped_roots
 Kd 0.0798 0.5416 0.4870
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/warped_roots.png
 map_d tex/minecraft/block/warped_roots_a.png
+d 0.99
 
 newmtl minecraft_block-glowstone
 Kd 0.6736 0.5144 0.3306
@@ -181,18 +193,21 @@ Kd 0.6000 0.2000 0.2000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/red_stained_glass.png
 map_d tex/minecraft/block/red_stained_glass_a.png
+d 0.99
 
 newmtl minecraft_block-soul_fire_1
 Kd 0.2134 0.7675 0.7857
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/soul_fire_1.png
 map_d tex/minecraft/block/soul_fire_1_a.png
+d 0.99
 
 newmtl minecraft_block-crimson_roots
 Kd 0.4942 0.0317 0.1644
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/crimson_roots.png
 map_d tex/minecraft/block/crimson_roots_a.png
+d 0.99
 
 newmtl minecraft_block-netherrack
 Kd 0.3827 0.1506 0.1506
@@ -204,6 +219,7 @@ Kd 0.4690 0.4227 0.4481
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/head/player_zzuf_b6289e4522318971b545011865dc3373eef36b6bacfa17286d9bb3ea86b2776b.png
 map_d tex/jmc2obj/head/player_zzuf_b6289e4522318971b545011865dc3373eef36b6bacfa17286d9bb3ea86b2776b_a.png
+d 0.99
 
 newmtl minecraft_block-iron_block
 Kd 0.8632 0.8628 0.8628
@@ -215,6 +231,7 @@ Kd 0.6673 0.5159 0.2870
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/scaffolding_top.png
 map_d tex/minecraft/block/scaffolding_top_a.png
+d 0.99
 
 newmtl minecraft_block-polished_basalt_top
 Kd 0.3898 0.3865 0.3949
@@ -231,18 +248,21 @@ Kd 0.0101 0.0167 0.0085
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528.png
 map_d tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528_a.png
+d 0.99
 
 newmtl jmc2obj_block-redstone_dust_line0_on
 Kd 0.9294 0.0000 0.0000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/block/redstone_dust_line0_on.png
 map_d tex/jmc2obj/block/redstone_dust_line0_on_a.png
+d 0.99
 
 newmtl minecraft_block-fire_0
 Kd 0.8352 0.5619 0.2362
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/fire_0.png
 map_d tex/minecraft/block/fire_0_a.png
+d 0.99
 
 newmtl minecraft_block-nether_wart_block
 Kd 0.4502 0.0115 0.0085
@@ -259,6 +279,7 @@ Kd 0.5544 0.1731 0.1163
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/crimson_fungus.png
 map_d tex/minecraft/block/crimson_fungus_a.png
+d 0.99
 
 newmtl minecraft_block-respawn_anchor_side4
 Kd 0.1960 0.1266 0.2678
@@ -270,6 +291,7 @@ Kd 0.3004 0.0967 0.5878
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/respawn_anchor_top.png
 map_d tex/minecraft/block/respawn_anchor_top_a.png
+d 0.99
 
 newmtl minecraft_block-gilded_blackstone
 Kd 0.2181 0.1684 0.1503
@@ -286,6 +308,7 @@ Kd 0.9225 0.8254 0.6805
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/candle_lit.png
 map_d tex/minecraft/block/candle_lit_a.png
+d 0.99
 
 newmtl minecraft_block-polished_blackstone
 Kd 0.2087 0.1907 0.2225
@@ -317,3 +340,4 @@ Kd 0.6895 0.8389 0.8589
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/glass.png
 map_d tex/minecraft/block/glass_a.png
+d 0.99

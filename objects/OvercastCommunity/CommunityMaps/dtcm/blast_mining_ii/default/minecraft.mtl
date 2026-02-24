@@ -24,12 +24,14 @@ Kd 0.4980 0.8000 0.0980
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/lime_stained_glass.png
 map_d tex/minecraft/block/lime_stained_glass.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-ts_purple-drs_purple-bs_purple-cbo_black-bo_black
 Kd 0.3116 0.2189 0.3301
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ts_purple-drs_purple-bs_purple-cbo_black-bo_black.png
 map_d tex/jmc2obj/banner/banner_base_white-ts_purple-drs_purple-bs_purple-cbo_black-bo_black.png
+d 0.99
 
 newmtl minecraft_block-chiseled_stone_bricks
 Kd 0.4697 0.4663 0.4697
@@ -41,12 +43,14 @@ Kd 0.4737 0.3470 0.2265
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ls_orange-drs_orange-rs_orange-drs_orange-bo_black.png
 map_d tex/jmc2obj/banner/banner_base_white-ls_orange-drs_orange-rs_orange-drs_orange-bo_black.png
+d 0.99
 
 newmtl jmc2obj_banner-banner_base_white-ts_orange-bs_orange-drs_orange-bo_black-cbo_black
 Kd 0.4177 0.2952 0.1782
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ts_orange-bs_orange-drs_orange-bo_black-cbo_black.png
 map_d tex/jmc2obj/banner/banner_base_white-ts_orange-bs_orange-drs_orange-bo_black-cbo_black.png
+d 0.99
 
 newmtl minecraft_block-diamond_block
 Kd 0.3850 0.9299 0.8946
@@ -78,6 +82,7 @@ Kd 0.6590 0.6566 0.6585
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/skeleton/skeleton.png
 map_d tex/minecraft/entity/skeleton/skeleton.png
+d 0.99
 
 newmtl minecraft_block-mossy_stone_bricks
 Kd 0.4527 0.4750 0.4123
@@ -104,12 +109,14 @@ Kd 0.3655 0.2709 0.3855
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/jmc2obj/banner/banner_base_white-ls_purple-drs_purple-rs_purple-bo_black.png
 map_d tex/jmc2obj/banner/banner_base_white-ls_purple-drs_purple-rs_purple-bo_black.png
+d 0.99
 
 newmtl minecraft_block-red_stained_glass
 Kd 0.6000 0.2000 0.2000
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/red_stained_glass.png
 map_d tex/minecraft/block/red_stained_glass.png
+d 0.99
 
 newmtl minecraft_block-stone_bricks
 Kd 0.4802 0.4777 0.4802
@@ -121,6 +128,7 @@ Kd 0.6046 0.4878 0.2916
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/entity/signs/oak.png
 map_d tex/minecraft/entity/signs/oak.png
+d 0.99
 
 newmtl minecraft_block-red_terracotta
 Kd 0.5612 0.2393 0.1839
