@@ -1,0 +1,315 @@
+
+newmtl minecraft_block-stone
+Kd 0.4923 0.4923 0.4923
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stone.png
+
+newmtl minecraft_block-orange_wool
+Kd 0.9437 0.4631 0.0765
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_wool.png
+
+newmtl minecraft_block-flowering_azalea_leaves
+Kd 0.3905 0.4357 0.2387
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/flowering_azalea_leaves.png
+map_d tex/minecraft/block/flowering_azalea_leaves_a.png
+
+newmtl minecraft_block-barrel_side
+Kd 0.4230 0.3189 0.1967
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/barrel_side.png
+
+newmtl minecraft_block-yellow_concrete
+Kd 0.9451 0.6879 0.0841
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_concrete.png
+
+newmtl minecraft_block-red_stained_glass
+Kd 0.6000 0.2000 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_stained_glass.png
+map_d tex/minecraft/block/red_stained_glass_a.png
+
+newmtl minecraft_block-green_stained_glass
+Kd 0.4000 0.4980 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_stained_glass.png
+map_d tex/minecraft/block/green_stained_glass_a.png
+
+newmtl minecraft_block-water_still
+Kd 0.1680 0.3193 0.6148
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/water_still.png
+map_d tex/minecraft/block/water_still_a.png
+
+newmtl minecraft_block-polished_blackstone
+Kd 0.2087 0.1907 0.2225
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_blackstone.png
+
+newmtl minecraft_block-yellow_concrete_powder
+Kd 0.9133 0.7811 0.2148
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_concrete_powder.png
+
+newmtl minecraft_block-blue_concrete
+Kd 0.1747 0.1825 0.5624
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_concrete.png
+
+newmtl minecraft_block-red_stained_glass_pane_top
+Kd 0.5777 0.1903 0.1903
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_stained_glass_pane_top.png
+map_d tex/minecraft/block/red_stained_glass_pane_top_a.png
+
+newmtl minecraft_block-glass
+Kd 0.6895 0.8389 0.8589
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/glass.png
+map_d tex/minecraft/block/glass_a.png
+
+newmtl minecraft_block-cobweb
+Kd 0.8964 0.9145 0.9191
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cobweb.png
+map_d tex/minecraft/block/cobweb_a.png
+
+newmtl minecraft_block-ochre_froglight_top
+Kd 0.9832 0.9614 0.8098
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/ochre_froglight_top.png
+
+newmtl minecraft_block-orange_concrete
+Kd 0.8798 0.3809 0.0025
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_concrete.png
+
+newmtl minecraft_entity-player-wide-steve
+Kd 0.2728 0.3579 0.4134
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/player/wide/steve.png
+map_d tex/minecraft/entity/player/wide/steve_a.png
+
+newmtl minecraft_block-blue_terracotta
+Kd 0.2913 0.2341 0.3573
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_terracotta.png
+
+newmtl minecraft_block-red_terracotta
+Kd 0.5612 0.2393 0.1839
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_terracotta.png
+
+newmtl minecraft_block-yellow_stained_glass
+Kd 0.8980 0.8980 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_stained_glass.png
+map_d tex/minecraft/block/yellow_stained_glass_a.png
+
+newmtl minecraft_block-bamboo_mosaic
+Kd 0.7459 0.6674 0.3063
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bamboo_mosaic.png
+
+newmtl minecraft_entity-signs-oak
+Kd 0.6046 0.4878 0.2916
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/signs/oak.png
+map_d tex/minecraft/entity/signs/oak_a.png
+
+newmtl minecraft_block-cyan_concrete
+Kd 0.0841 0.4675 0.5341
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_concrete.png
+
+newmtl minecraft_block-cyan_stained_glass
+Kd 0.2980 0.4980 0.6000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_stained_glass.png
+map_d tex/minecraft/block/cyan_stained_glass_a.png
+
+newmtl minecraft_block-purple_concrete
+Kd 0.3938 0.1240 0.6133
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_concrete.png
+
+newmtl minecraft_block-blue_wool
+Kd 0.2081 0.2245 0.6176
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_wool.png
+
+newmtl minecraft_block-blue_stained_glass
+Kd 0.2000 0.2980 0.6980
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_stained_glass.png
+map_d tex/minecraft/block/blue_stained_glass_a.png
+
+newmtl minecraft_block-bedrock
+Kd 0.3338 0.3338 0.3338
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bedrock.png
+
+newmtl minecraft_block-honey_block_top
+Kd 0.9845 0.7266 0.2060
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/honey_block_top.png
+map_d tex/minecraft/block/honey_block_top_a.png
+
+newmtl minecraft_block-orange_stained_glass_pane_top
+Kd 0.8180 0.4821 0.1903
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_stained_glass_pane_top.png
+map_d tex/minecraft/block/orange_stained_glass_pane_top_a.png
+
+newmtl minecraft_block-dark_oak_planks
+Kd 0.2614 0.1690 0.0793
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dark_oak_planks.png
+
+newmtl minecraft_block-honey_block_bottom
+Kd 0.9463 0.5726 0.0702
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/honey_block_bottom.png
+map_d tex/minecraft/block/honey_block_bottom_a.png
+
+newmtl minecraft_block-honeycomb_block
+Kd 0.8994 0.5820 0.1158
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/honeycomb_block.png
+
+newmtl minecraft_entity-signs-bamboo
+Kd 0.8162 0.7333 0.3459
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/signs/bamboo.png
+map_d tex/minecraft/entity/signs/bamboo_a.png
+
+newmtl minecraft_block-iron_block
+Kd 0.8632 0.8628 0.8628
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_block.png
+
+newmtl minecraft_block-yellow_terracotta
+Kd 0.7305 0.5221 0.1387
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_terracotta.png
+
+newmtl minecraft_block-beacon
+Kd 0.4620 0.8664 0.8436
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/beacon.png
+
+newmtl minecraft_block-honey_block_side
+Kd 0.9832 0.7390 0.2271
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/honey_block_side.png
+map_d tex/minecraft/block/honey_block_side_a.png
+
+newmtl minecraft_block-ochre_froglight_side
+Kd 0.9626 0.9149 0.7133
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/ochre_froglight_side.png
+
+newmtl minecraft_block-gold_block
+Kd 0.9663 0.8169 0.2417
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gold_block.png
+
+newmtl minecraft_block-orange_stained_glass
+Kd 0.8471 0.4980 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_stained_glass.png
+map_d tex/minecraft/block/orange_stained_glass_a.png
+
+newmtl minecraft_block-green_stained_glass_pane_top
+Kd 0.3836 0.4821 0.1903
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_stained_glass_pane_top.png
+map_d tex/minecraft/block/green_stained_glass_pane_top_a.png
+
+newmtl minecraft_block-warped_planks
+Kd 0.1688 0.4113 0.3888
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_planks.png
+
+newmtl minecraft_block-cyan_wool
+Kd 0.0833 0.5401 0.5700
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_wool.png
+
+newmtl minecraft_block-yellow_stained_glass_pane_top
+Kd 0.8667 0.8667 0.1903
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_stained_glass_pane_top.png
+map_d tex/minecraft/block/yellow_stained_glass_pane_top_a.png
+
+newmtl minecraft_entity-chest-normal
+Kd 0.4119 0.3043 0.1372
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/chest/normal.png
+map_d tex/minecraft/entity/chest/normal_a.png
+
+newmtl minecraft_block-green_wool
+Kd 0.3327 0.4296 0.1079
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_wool.png
+
+newmtl minecraft_block-blue_stained_glass_pane_top
+Kd 0.1903 0.2888 0.6724
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_stained_glass_pane_top.png
+map_d tex/minecraft/block/blue_stained_glass_pane_top_a.png
+
+newmtl minecraft_block-mangrove_planks
+Kd 0.4626 0.2121 0.1908
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/mangrove_planks.png
+
+newmtl minecraft_block-barrel_top
+Kd 0.5275 0.3943 0.2294
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/barrel_top.png
+
+newmtl minecraft_block-green_concrete
+Kd 0.2879 0.3582 0.1431
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_concrete.png
+
+newmtl minecraft_block-obsidian
+Kd 0.0594 0.0416 0.0963
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/obsidian.png
+
+newmtl minecraft_block-cyan_stained_glass_pane_top
+Kd 0.2888 0.4821 0.5777
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_stained_glass_pane_top.png
+map_d tex/minecraft/block/cyan_stained_glass_pane_top_a.png
+
+newmtl minecraft_block-shroomlight
+Kd 0.9445 0.5747 0.2780
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/shroomlight.png
+
+newmtl minecraft_block-black_concrete_powder
+Kd 0.0992 0.1049 0.1254
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/black_concrete_powder.png
+
+newmtl minecraft_entity-signs-hanging-spruce
+Kd 0.4213 0.3383 0.2238
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/signs/hanging/spruce.png
+map_d tex/minecraft/entity/signs/hanging/spruce_a.png
+
+newmtl minecraft_block-black_concrete
+Kd 0.0330 0.0408 0.0604
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/black_concrete.png
+
+newmtl jmc2obj_block-redstone_dust_line0_on
+Kd 0.9294 0.0000 0.0000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/block/redstone_dust_line0_on.png
+map_d tex/jmc2obj/block/redstone_dust_line0_on_a.png
