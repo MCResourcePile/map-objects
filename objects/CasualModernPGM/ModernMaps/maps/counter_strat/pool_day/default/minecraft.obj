@@ -2,7 +2,7 @@
 # version: 1
 # exporter: jmc2obj
 # world_name: pool_day
-# world_path: D:\GitHub\mcresourcepile\map-fetcher\tmp\CasualModernPGM\ModernMaps\maps\counter_strat\pool_day
+# world_path: /home/runner/work/map-objects/map-objects/map-fetcher/tmp/CasualModernPGM/ModernMaps/maps/counter_strat/pool_day
 # export_bounds_min: (-512, 0, -512)
 # export_bounds_max: (495, 255, 495)
 # export_offset: (0.000000, 0.000000, 0.000000)
