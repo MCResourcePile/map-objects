@@ -12,7 +12,7 @@ jobs:
     environment: run
     steps:
       - name: checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           sparse-checkout: |
             /*
@@ -26,15 +26,21 @@ jobs:
           java-version: '21'
 
       - name: setup node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: checkout map fetcher
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: MCResourcePile/map-fetcher
           path: "./map-fetcher"
+
+      - name: checkout textures
+        uses: actions/checkout@v6
+        with:
+          repository: PixiGeko/Minecraft-default-assets
+          path: "./map-fetcher/textures"
 
       - name: install dependencies
         run: |
@@ -44,7 +50,7 @@ jobs:
       - name: execute script
         run: |
           cd ./map-fetcher
-          node src/overview.js --source="${GITHUB_WORKSPACE}/sources.json" --output="${GITHUB_WORKSPACE}"
+          node src/overview.js --source="${GITHUB_WORKSPACE}/sources.json" --output="${GITHUB_WORKSPACE} --textures=${GITHUB_WORKSPACE}/map-fetcher/textures"
         env:
           JMC2OBJVERSION: ${{ vars.JMC2OBJVERSION }}
 
