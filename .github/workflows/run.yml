@@ -50,7 +50,7 @@ jobs:
       - name: execute script
         run: |
           cd ./map-fetcher
-          node src/overview.js --source="${GITHUB_WORKSPACE}/sources.json" --output="${GITHUB_WORKSPACE} --textures=${GITHUB_WORKSPACE}/map-fetcher/textures"
+          node src/overview.js --source="${GITHUB_WORKSPACE}/sources.json" --output="${GITHUB_WORKSPACE}" --textures="${GITHUB_WORKSPACE}/map-fetcher/textures"
         env:
           JMC2OBJVERSION: ${{ vars.JMC2OBJVERSION }}
 
