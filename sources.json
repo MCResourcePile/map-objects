@@ -47,6 +47,12 @@
             "repository": "ModernMaps",
             "url": "https://github.com/CasualModernPGM/ModernMaps",
             "branch": "master"
+        },
+        {
+            "maintainer": "zzufx",
+            "repository": "zzuf-maps",
+            "url": "https://github.com/zzufx/zzuf-maps",
+            "branch": "master"
         }
     ]
 }
