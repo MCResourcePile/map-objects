@@ -1,0 +1,234 @@
+
+newmtl minecraft_block-candle
+Kd 0.9102 0.7866 0.6011
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/candle.png
+map_d tex/minecraft/block/candle_a.png
+d 0.99
+
+newmtl minecraft_block-stone
+Kd 0.7292 0.7292 0.7292
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stone.png
+
+newmtl minecraft_block-reinforced_deepslate_top
+Kd 0.3150 0.3252 0.3093
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_top.png
+
+newmtl minecraft_block-soul_fire_0
+Kd 0.2769 0.8082 0.8252
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/soul_fire_0.png
+map_d tex/minecraft/block/soul_fire_0_a.png
+d 0.99
+
+newmtl minecraft_block-sculk_shrieker_can_summon_inner_top
+Kd 0.1210 0.2536 0.2571
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sculk_shrieker_can_summon_inner_top.png
+
+newmtl minecraft_block-oxidized_copper_bulb
+Kd 0.2754 0.5192 0.4285
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oxidized_copper_bulb.png
+
+newmtl minecraft_block-note_block
+Kd 0.3481 0.2312 0.1600
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/note_block.png
+
+newmtl minecraft_block-smooth_basalt
+Kd 0.2850 0.2835 0.3067
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/smooth_basalt.png
+
+newmtl minecraft_block-sculk_shrieker_top
+Kd 0.7798 0.8048 0.6649
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sculk_shrieker_top.png
+map_d tex/minecraft/block/sculk_shrieker_top_a.png
+d 0.99
+
+newmtl minecraft_block-polished_basalt_top
+Kd 0.3898 0.3865 0.3949
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_basalt_top.png
+
+newmtl minecraft_block-sculk_catalyst_side
+Kd 0.3004 0.3682 0.3537
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sculk_catalyst_side.png
+
+newmtl minecraft_block-water_still
+Kd 0.1680 0.3193 0.6148
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/water_still.png
+map_d tex/minecraft/block/water_still_a.png
+d 0.99
+
+newmtl minecraft_block-reinforced_deepslate_side
+Kd 0.4017 0.4288 0.3961
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_side.png
+
+newmtl minecraft_block-oak_planks
+Kd 0.6361 0.5130 0.3083
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oak_planks.png
+
+newmtl minecraft_block-tripwire_hook
+Kd 0.5593 0.5233 0.4628
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/tripwire_hook.png
+map_d tex/minecraft/block/tripwire_hook_a.png
+d 0.99
+
+newmtl minecraft_block-tripwire
+Kd 0.7343 0.7343 0.7343
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/tripwire.png
+map_d tex/minecraft/block/tripwire_a.png
+d 0.99
+
+newmtl minecraft_block-soul_lantern
+Kd 0.2780 0.3879 0.4488
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/soul_lantern.png
+map_d tex/minecraft/block/soul_lantern_a.png
+d 0.99
+
+newmtl minecraft_block-sculk_shrieker_side
+Kd 0.2946 0.3964 0.3742
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sculk_shrieker_side.png
+map_d tex/minecraft/block/sculk_shrieker_side_a.png
+d 0.99
+
+newmtl minecraft_block-deepslate_top
+Kd 0.3420 0.3420 0.3507
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate_top.png
+
+newmtl minecraft_block-soul_sand
+Kd 0.3192 0.2438 0.1988
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/soul_sand.png
+
+newmtl minecraft_block-gray_wool
+Kd 0.2461 0.2676 0.2806
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gray_wool.png
+
+newmtl minecraft_block-deepslate_bricks
+Kd 0.2783 0.2781 0.2795
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate_bricks.png
+
+newmtl minecraft_block-sculk_catalyst_bottom
+Kd 0.3503 0.4282 0.4284
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sculk_catalyst_bottom.png
+
+newmtl minecraft_block-cracked_deepslate_tiles
+Kd 0.2064 0.2059 0.2068
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cracked_deepslate_tiles.png
+
+newmtl minecraft_block-candle_lit
+Kd 0.9225 0.8254 0.6805
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/candle_lit.png
+map_d tex/minecraft/block/candle_lit_a.png
+d 0.99
+
+newmtl minecraft_block-oxidized_copper_bulb_lit
+Kd 0.5275 0.6058 0.4079
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oxidized_copper_bulb_lit.png
+
+newmtl minecraft_block-sculk_sensor_tendril_inactive
+Kd 0.0544 0.2409 0.2836
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sculk_sensor_tendril_inactive.png
+map_d tex/minecraft/block/sculk_sensor_tendril_inactive_a.png
+d 0.99
+
+newmtl minecraft_block-cracked_deepslate_bricks
+Kd 0.2548 0.2545 0.2559
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cracked_deepslate_bricks.png
+
+newmtl minecraft_block-sculk_sensor_top
+Kd 0.0280 0.2746 0.3309
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sculk_sensor_top.png
+
+newmtl minecraft_block-soul_fire_1
+Kd 0.2134 0.7675 0.7857
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/soul_fire_1.png
+map_d tex/minecraft/block/soul_fire_1_a.png
+d 0.99
+
+newmtl minecraft_block-polished_deepslate
+Kd 0.2842 0.2846 0.2868
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_deepslate.png
+
+newmtl minecraft_block-sculk_sensor_bottom
+Kd 0.0510 0.1095 0.1325
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sculk_sensor_bottom.png
+
+newmtl minecraft_block-polished_basalt_side
+Kd 0.3471 0.3461 0.3589
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_basalt_side.png
+
+newmtl minecraft_block-black_concrete
+Kd 0.0330 0.0408 0.0604
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/black_concrete.png
+
+newmtl minecraft_block-chiseled_deepslate
+Kd 0.2129 0.2130 0.2152
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chiseled_deepslate.png
+
+newmtl minecraft_block-deepslate_tiles
+Kd 0.2153 0.2149 0.2160
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate_tiles.png
+
+newmtl minecraft_block-soul_soil
+Kd 0.2972 0.2256 0.1829
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/soul_soil.png
+
+newmtl minecraft_block-redstone_lamp
+Kd 0.3734 0.2142 0.1179
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/redstone_lamp.png
+
+newmtl minecraft_block-cobbled_deepslate
+Kd 0.3030 0.3030 0.3161
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cobbled_deepslate.png
+
+newmtl minecraft_block-reinforced_deepslate_bottom
+Kd 0.3103 0.3235 0.3136
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_bottom.png
+
+newmtl minecraft_block-deepslate
+Kd 0.3142 0.3142 0.3239
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate.png
+
+newmtl minecraft_block-sculk_sensor_side
+Kd 0.0408 0.1531 0.1858
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sculk_sensor_side.png
+map_d tex/minecraft/block/sculk_sensor_side_a.png
+d 0.99

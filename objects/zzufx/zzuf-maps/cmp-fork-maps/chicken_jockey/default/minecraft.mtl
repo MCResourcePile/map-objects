@@ -1,0 +1,120 @@
+
+newmtl minecraft_block-dirt
+Kd 0.5265 0.3776 0.2627
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dirt.png
+
+newmtl minecraft_block-poppy
+Kd 0.5045 0.2542 0.1480
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/poppy.png
+map_d tex/minecraft/block/poppy_a.png
+d 0.99
+
+newmtl minecraft_block-stone
+Kd 0.7292 0.7292 0.7292
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stone.png
+
+newmtl jmc2obj_head-player_zzuf_b6289e4522318971b545011865dc3373eef36b6bacfa17286d9bb3ea86b2776b
+Kd 0.4690 0.4227 0.4481
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/head/player_zzuf_b6289e4522318971b545011865dc3373eef36b6bacfa17286d9bb3ea86b2776b.png
+map_d tex/jmc2obj/head/player_zzuf_b6289e4522318971b545011865dc3373eef36b6bacfa17286d9bb3ea86b2776b_a.png
+d 0.99
+
+newmtl minecraft_block-torchflower
+Kd 0.3959 0.3969 0.3024
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/torchflower.png
+map_d tex/minecraft/block/torchflower_a.png
+d 0.99
+
+newmtl minecraft_block-iron_ore
+Kd 0.5347 0.5070 0.4814
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_ore.png
+
+newmtl minecraft_block-coal_ore
+Kd 0.4144 0.4150 0.4132
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/coal_ore.png
+
+newmtl minecraft_block-oxeye_daisy
+Kd 0.7033 0.7939 0.5622
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oxeye_daisy.png
+map_d tex/minecraft/block/oxeye_daisy_a.png
+d 0.99
+
+newmtl minecraft_block-bedrock
+Kd 0.5972 0.5972 0.5972
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bedrock.png
+
+newmtl minecraft_block-blue_orchid
+Kd 0.1855 0.6373 0.6599
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_orchid.png
+map_d tex/minecraft/block/blue_orchid_a.png
+d 0.99
+
+newmtl jmc2obj_head-player_Drysu_d53575ecaab8e6bf23c95a2d631d92aafaf79e1ba4dc4ba8270ae6a53ca38c16
+Kd 0.2586 0.3523 0.4022
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/head/player_Drysu_d53575ecaab8e6bf23c95a2d631d92aafaf79e1ba4dc4ba8270ae6a53ca38c16.png
+map_d tex/jmc2obj/head/player_Drysu_d53575ecaab8e6bf23c95a2d631d92aafaf79e1ba4dc4ba8270ae6a53ca38c16_a.png
+d 0.99
+
+newmtl minecraft_block-deepslate
+Kd 0.3142 0.3142 0.3239
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate.png
+
+newmtl minecraft_block-deepslate_diamond_ore
+Kd 0.3269 0.4174 0.4194
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate_diamond_ore.png
+
+newmtl minecraft_block-grass_block_side
+Kd 0.4972 0.4201 0.2572
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/grass_block_side.png
+
+newmtl minecraft_block-wildflowers_stem
+Kd 0.8353 0.8353 0.8353
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/wildflowers_stem.png
+map_d tex/minecraft/block/wildflowers_stem_a.png
+d 0.99
+
+newmtl minecraft_block-short_grass
+Kd 0.1571 0.3982 0.0528
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/short_grass.png
+map_d tex/minecraft/block/short_grass_a.png
+d 0.99
+
+newmtl minecraft_block-deepslate_emerald_ore
+Kd 0.3076 0.4097 0.3443
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate_emerald_ore.png
+
+newmtl minecraft_block-dandelion
+Kd 0.5792 0.6755 0.1705
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dandelion.png
+map_d tex/minecraft/block/dandelion_a.png
+d 0.99
+
+newmtl minecraft_block-grass_block_top
+Kd 0.4936 0.7793 0.3069
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/grass_block_top.png
+
+newmtl minecraft_block-wildflowers
+Kd 0.9297 0.8390 0.4602
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/wildflowers.png
+map_d tex/minecraft/block/wildflowers_a.png
+d 0.99

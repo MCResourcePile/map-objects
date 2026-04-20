@@ -1,0 +1,113 @@
+
+newmtl minecraft_block-copper_bulb_lit
+Kd 0.8469 0.5903 0.4184
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/copper_bulb_lit.png
+
+newmtl minecraft_entity-enderdragon-dragon
+Kd 0.1505 0.1486 0.1509
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/enderdragon/dragon.png
+map_d tex/minecraft/entity/enderdragon/dragon_a.png
+d 0.99
+
+newmtl minecraft_block-chiseled_tuff
+Kd 0.3496 0.3697 0.3401
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chiseled_tuff.png
+
+newmtl minecraft_block-target_top
+Kd 0.8878 0.6679 0.6188
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/target_top.png
+
+newmtl minecraft_block-target_side
+Kd 0.8989 0.6911 0.6591
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/target_side.png
+
+newmtl minecraft_block-reinforced_deepslate_side
+Kd 0.4017 0.4288 0.3961
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_side.png
+
+newmtl minecraft_block-chiseled_tuff_bricks_top
+Kd 0.4348 0.4470 0.4189
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chiseled_tuff_bricks_top.png
+
+newmtl minecraft_block-copper_block
+Kd 0.7546 0.4222 0.3130
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/copper_block.png
+
+newmtl minecraft_block-vault_top_ominous
+Kd 0.2695 0.2847 0.2770
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/vault_top_ominous.png
+
+newmtl minecraft_block-polished_tuff
+Kd 0.3829 0.4084 0.3917
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_tuff.png
+
+newmtl minecraft_block-vault_bottom_ominous
+Kd 0.1727 0.1699 0.2203
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/vault_bottom_ominous.png
+
+newmtl minecraft_block-reinforced_deepslate_bottom
+Kd 0.3103 0.3235 0.3136
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_bottom.png
+
+newmtl minecraft_block-chiseled_tuff_top
+Kd 0.3678 0.3867 0.3576
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chiseled_tuff_top.png
+
+newmtl minecraft_block-note_block
+Kd 0.3481 0.2312 0.1600
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/note_block.png
+
+newmtl minecraft_block-purple_concrete
+Kd 0.3938 0.1240 0.6133
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_concrete.png
+
+newmtl minecraft_block-yellow_concrete
+Kd 0.9451 0.6879 0.0841
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_concrete.png
+
+newmtl minecraft_block-tuff_bricks
+Kd 0.3847 0.4025 0.3739
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/tuff_bricks.png
+
+newmtl minecraft_block-chiseled_tuff_bricks
+Kd 0.3879 0.4050 0.3747
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chiseled_tuff_bricks.png
+
+newmtl minecraft_block-vault_front_off_ominous
+Kd 0.2200 0.2561 0.2750
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/vault_front_off_ominous.png
+map_d tex/minecraft/block/vault_front_off_ominous_a.png
+d 0.99
+
+newmtl minecraft_entity-signs-hanging-dark_oak
+Kd 0.2673 0.2207 0.1651
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/signs/hanging/dark_oak.png
+map_d tex/minecraft/entity/signs/hanging/dark_oak_a.png
+d 0.99
+
+newmtl minecraft_block-vault_side_off_ominous
+Kd 0.2161 0.2721 0.2934
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/vault_side_off_ominous.png
+map_d tex/minecraft/block/vault_side_off_ominous_a.png
+d 0.99

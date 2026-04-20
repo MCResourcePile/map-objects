@@ -1,0 +1,313 @@
+
+newmtl minecraft_block-blackstone
+Kd 0.1655 0.1392 0.1597
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blackstone.png
+
+newmtl minecraft_block-netherite_block
+Kd 0.2609 0.2412 0.2505
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/netherite_block.png
+
+newmtl minecraft_block-scaffolding_top
+Kd 0.6673 0.5159 0.2870
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/scaffolding_top.png
+map_d tex/minecraft/block/scaffolding_top_a.png
+d 0.99
+
+newmtl minecraft_block-crimson_nylium_side
+Kd 0.4206 0.1056 0.1046
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/crimson_nylium_side.png
+
+newmtl minecraft_block-polished_basalt_top
+Kd 0.3898 0.3865 0.3949
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_basalt_top.png
+
+newmtl minecraft_block-cracked_polished_blackstone_bricks
+Kd 0.1727 0.1475 0.1723
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cracked_polished_blackstone_bricks.png
+
+newmtl minecraft_block-obsidian
+Kd 0.0594 0.0416 0.0963
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/obsidian.png
+
+newmtl minecraft_block-warped_fungus
+Kd 0.2910 0.4277 0.3449
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_fungus.png
+map_d tex/minecraft/block/warped_fungus_a.png
+d 0.99
+
+newmtl minecraft_block-polished_blackstone
+Kd 0.2087 0.1907 0.2225
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_blackstone.png
+
+newmtl minecraft_block-candle_lit
+Kd 0.9225 0.8254 0.6805
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/candle_lit.png
+map_d tex/minecraft/block/candle_lit_a.png
+d 0.99
+
+newmtl minecraft_block-crimson_roots
+Kd 0.4942 0.0317 0.1644
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/crimson_roots.png
+map_d tex/minecraft/block/crimson_roots_a.png
+d 0.99
+
+newmtl minecraft_block-blackstone_top
+Kd 0.1665 0.1430 0.1646
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blackstone_top.png
+
+newmtl minecraft_block-redstone_torch
+Kd 0.7146 0.2318 0.1735
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/redstone_torch.png
+map_d tex/minecraft/block/redstone_torch_a.png
+d 0.99
+
+newmtl minecraft_block-lava_still
+Kd 0.8504 0.4100 0.1033
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lava_still.png
+
+newmtl minecraft_block-shroomlight
+Kd 0.9445 0.5747 0.2780
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/shroomlight.png
+
+newmtl jmc2obj_head-player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528
+Kd 0.0101 0.0167 0.0085
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528.png
+map_d tex/jmc2obj/head/player_1dd4bc2e4bff6b3720b6e1375196114af95fba6e0498eaf9a70a41d7ce341528_a.png
+d 0.99
+
+newmtl jmc2obj_head-player_zzuf_b6289e4522318971b545011865dc3373eef36b6bacfa17286d9bb3ea86b2776b
+Kd 0.4690 0.4227 0.4481
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/head/player_zzuf_b6289e4522318971b545011865dc3373eef36b6bacfa17286d9bb3ea86b2776b.png
+map_d tex/jmc2obj/head/player_zzuf_b6289e4522318971b545011865dc3373eef36b6bacfa17286d9bb3ea86b2776b_a.png
+d 0.99
+
+newmtl minecraft_block-crimson_nylium
+Kd 0.5135 0.1233 0.1234
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/crimson_nylium.png
+
+newmtl minecraft_block-scaffolding_side
+Kd 0.7557 0.6674 0.3089
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/scaffolding_side.png
+map_d tex/minecraft/block/scaffolding_side_a.png
+d 0.99
+
+newmtl minecraft_block-nether_wart_block
+Kd 0.4502 0.0115 0.0085
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/nether_wart_block.png
+
+newmtl minecraft_block-gold_block
+Kd 0.9663 0.8169 0.2417
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gold_block.png
+
+newmtl jmc2obj_block-redstone_dust_line0_on
+Kd 0.9627 0.0000 0.0000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/block/redstone_dust_line0_on.png
+map_d tex/jmc2obj/block/redstone_dust_line0_on_a.png
+d 0.99
+
+newmtl minecraft_block-soul_fire_0
+Kd 0.2769 0.8082 0.8252
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/soul_fire_0.png
+map_d tex/minecraft/block/soul_fire_0_a.png
+d 0.99
+
+newmtl minecraft_block-warped_wart_block
+Kd 0.0894 0.4704 0.4749
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_wart_block.png
+
+newmtl minecraft_block-basalt_side
+Kd 0.2871 0.2844 0.3056
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/basalt_side.png
+
+newmtl minecraft_block-scaffolding_bottom
+Kd 0.7591 0.6775 0.3118
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/scaffolding_bottom.png
+map_d tex/minecraft/block/scaffolding_bottom_a.png
+d 0.99
+
+newmtl minecraft_block-iron_trapdoor
+Kd 0.7960 0.7931 0.7931
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_trapdoor.png
+map_d tex/minecraft/block/iron_trapdoor_a.png
+d 0.99
+
+newmtl minecraft_block-respawn_anchor_side4
+Kd 0.1960 0.1266 0.2678
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/respawn_anchor_side4.png
+
+newmtl minecraft_block-respawn_anchor_top
+Kd 0.3004 0.0967 0.5878
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/respawn_anchor_top.png
+
+newmtl minecraft_block-nether_gold_ore
+Kd 0.4525 0.2155 0.1649
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/nether_gold_ore.png
+
+newmtl minecraft_block-ancient_debris_side
+Kd 0.3754 0.2500 0.2191
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/ancient_debris_side.png
+
+newmtl minecraft_block-glowstone
+Kd 0.6736 0.5144 0.3306
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/glowstone.png
+
+newmtl minecraft_block-warped_nylium_side
+Kd 0.2847 0.2429 0.2334
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_nylium_side.png
+
+newmtl minecraft_block-soul_fire_1
+Kd 0.2134 0.7675 0.7857
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/soul_fire_1.png
+map_d tex/minecraft/block/soul_fire_1_a.png
+d 0.99
+
+newmtl minecraft_block-gilded_blackstone
+Kd 0.2181 0.1684 0.1503
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gilded_blackstone.png
+
+newmtl minecraft_block-nether_quartz_ore
+Kd 0.4621 0.2575 0.2447
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/nether_quartz_ore.png
+
+newmtl minecraft_block-ancient_debris_top
+Kd 0.3718 0.2607 0.2292
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/ancient_debris_top.png
+
+newmtl minecraft_block-reinforced_deepslate_side
+Kd 0.4017 0.4288 0.3961
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/reinforced_deepslate_side.png
+
+newmtl minecraft_block-warped_roots
+Kd 0.0798 0.5416 0.4870
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_roots.png
+map_d tex/minecraft/block/warped_roots_a.png
+d 0.99
+
+newmtl minecraft_block-netherrack
+Kd 0.3827 0.1506 0.1506
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/netherrack.png
+
+newmtl minecraft_block-glass
+Kd 0.6895 0.8389 0.8589
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/glass.png
+map_d tex/minecraft/block/glass_a.png
+d 0.99
+
+newmtl minecraft_block-fire_1
+Kd 0.8502 0.5922 0.2121
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/fire_1.png
+map_d tex/minecraft/block/fire_1_a.png
+d 0.99
+
+newmtl minecraft_block-cobweb
+Kd 0.8964 0.9145 0.9191
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cobweb.png
+map_d tex/minecraft/block/cobweb_a.png
+d 0.99
+
+newmtl minecraft_block-crimson_fungus
+Kd 0.5544 0.1731 0.1163
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/crimson_fungus.png
+map_d tex/minecraft/block/crimson_fungus_a.png
+d 0.99
+
+newmtl minecraft_block-polished_basalt_side
+Kd 0.3471 0.3461 0.3589
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_basalt_side.png
+
+newmtl minecraft_block-warped_nylium
+Kd 0.1694 0.4484 0.3972
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_nylium.png
+
+newmtl minecraft_block-cracked_nether_bricks
+Kd 0.1583 0.0786 0.0939
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cracked_nether_bricks.png
+
+newmtl minecraft_block-beacon
+Kd 0.4620 0.8664 0.8436
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/beacon.png
+
+newmtl minecraft_block-iron_block
+Kd 0.8632 0.8628 0.8628
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_block.png
+
+newmtl minecraft_block-chiseled_polished_blackstone
+Kd 0.2117 0.1908 0.2228
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chiseled_polished_blackstone.png
+
+newmtl minecraft_block-polished_blackstone_bricks
+Kd 0.1893 0.1668 0.1952
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_blackstone_bricks.png
+
+newmtl minecraft_block-smooth_basalt
+Kd 0.2850 0.2835 0.3067
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/smooth_basalt.png
+
+newmtl minecraft_block-soul_soil
+Kd 0.2972 0.2256 0.1829
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/soul_soil.png
+
+newmtl minecraft_block-nether_bricks
+Kd 0.1737 0.0858 0.1023
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/nether_bricks.png
+
+newmtl minecraft_block-fire_0
+Kd 0.8352 0.5619 0.2362
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/fire_0.png
+map_d tex/minecraft/block/fire_0_a.png
+d 0.99

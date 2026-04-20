@@ -1,0 +1,112 @@
+
+newmtl minecraft_block-obsidian
+Kd 0.0594 0.0416 0.0963
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/obsidian.png
+
+newmtl minecraft_block-fire_0
+Kd 0.8352 0.5619 0.2362
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/fire_0.png
+map_d tex/minecraft/block/fire_0_a.png
+d 0.99
+
+newmtl minecraft_block-dead_bubble_coral
+Kd 0.5202 0.4890 0.4726
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dead_bubble_coral.png
+map_d tex/minecraft/block/dead_bubble_coral_a.png
+d 0.99
+
+newmtl minecraft_block-respawn_anchor_top_off
+Kd 0.1316 0.0862 0.2045
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/respawn_anchor_top_off.png
+
+newmtl minecraft_block-end_stone
+Kd 0.8608 0.8743 0.6209
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/end_stone.png
+
+newmtl minecraft_block-end_portal_frame_top
+Kd 0.3573 0.4733 0.3816
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/end_portal_frame_top.png
+
+newmtl minecraft_block-chorus_flower_dead
+Kd 0.3789 0.2397 0.3708
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chorus_flower_dead.png
+
+newmtl minecraft_block-chorus_plant
+Kd 0.3682 0.2239 0.3679
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chorus_plant.png
+
+newmtl minecraft_block-purpur_pillar
+Kd 0.6736 0.5078 0.6729
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purpur_pillar.png
+
+newmtl jmc2obj_head-player_zzuf_e434b70e217e2c23717b84a7513bc12eee710deaf89205f47ddb47195aec4cf0
+Kd 0.5542 0.4122 0.3687
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/head/player_zzuf_e434b70e217e2c23717b84a7513bc12eee710deaf89205f47ddb47195aec4cf0.png
+map_d tex/jmc2obj/head/player_zzuf_e434b70e217e2c23717b84a7513bc12eee710deaf89205f47ddb47195aec4cf0_a.png
+d 0.99
+
+newmtl minecraft_block-fire_1
+Kd 0.8502 0.5922 0.2121
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/fire_1.png
+map_d tex/minecraft/block/fire_1_a.png
+d 0.99
+
+newmtl minecraft_block-purpur_pillar_top
+Kd 0.6737 0.5034 0.6725
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purpur_pillar_top.png
+
+newmtl minecraft_block-end_portal_frame_eye
+Kd 0.1404 0.2748 0.2438
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/end_portal_frame_eye.png
+map_d tex/minecraft/block/end_portal_frame_eye_a.png
+d 0.99
+
+newmtl minecraft_block-bedrock
+Kd 0.5972 0.5972 0.5972
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bedrock.png
+
+newmtl minecraft_block-end_rod
+Kd 0.8139 0.7776 0.7337
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/end_rod.png
+map_d tex/minecraft/block/end_rod_a.png
+d 0.99
+
+newmtl minecraft_block-chorus_flower
+Kd 0.5935 0.4744 0.5951
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/chorus_flower.png
+
+newmtl minecraft_block-respawn_anchor_top
+Kd 0.3004 0.0967 0.5878
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/respawn_anchor_top.png
+
+newmtl minecraft_block-respawn_anchor_side4
+Kd 0.1960 0.1266 0.2678
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/respawn_anchor_side4.png
+
+newmtl minecraft_block-purpur_block
+Kd 0.6663 0.4938 0.6654
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purpur_block.png
+
+newmtl minecraft_block-end_stone_bricks
+Kd 0.8567 0.8786 0.6361
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/end_stone_bricks.png
