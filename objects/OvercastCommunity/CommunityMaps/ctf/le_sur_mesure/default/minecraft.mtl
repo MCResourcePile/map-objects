@@ -1,0 +1,1356 @@
+
+newmtl minecraft_block-jungle_shelf
+Kd 0.6102 0.4772 0.2894
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jungle_shelf.png
+
+newmtl minecraft_block-pitcher_crop_bottom_stage_4
+Kd 0.4087 0.4957 0.3661
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pitcher_crop_bottom_stage_4.png
+map_d tex/minecraft/block/pitcher_crop_bottom_stage_4_a.png
+d 0.99
+
+newmtl minecraft_block-light_blue_glazed_terracotta
+Kd 0.3708 0.6456 0.8193
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_glazed_terracotta.png
+
+newmtl minecraft_block-yellow_concrete
+Kd 0.9451 0.6879 0.0841
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_concrete.png
+
+newmtl minecraft_block-grindstone_side
+Kd 0.7636 0.7636 0.7636
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/grindstone_side.png
+map_d tex/minecraft/block/grindstone_side_a.png
+d 0.99
+
+newmtl minecraft_block-quartz_block_top
+Kd 0.9246 0.9016 0.8743
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/quartz_block_top.png
+
+newmtl minecraft_block-pale_oak_door_top
+Kd 0.8484 0.8157 0.8106
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pale_oak_door_top.png
+
+newmtl minecraft_block-verdant_froglight_top
+Kd 0.8991 0.9587 0.8945
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/verdant_froglight_top.png
+
+newmtl minecraft_block-purple_concrete
+Kd 0.3938 0.1240 0.6133
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_concrete.png
+
+newmtl minecraft_block-bookshelf
+Kd 0.4605 0.3708 0.2346
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bookshelf.png
+
+newmtl minecraft_block-orange_concrete
+Kd 0.8798 0.3809 0.0025
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_concrete.png
+
+newmtl minecraft_block-fire_1
+Kd 0.8502 0.5922 0.2121
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/fire_1.png
+map_d tex/minecraft/block/fire_1_a.png
+d 0.99
+
+newmtl minecraft_block-gray_terracotta
+Kd 0.2266 0.1663 0.1395
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gray_terracotta.png
+
+newmtl minecraft_block-grindstone_pivot
+Kd 0.2865 0.1803 0.0829
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/grindstone_pivot.png
+map_d tex/minecraft/block/grindstone_pivot_a.png
+d 0.99
+
+newmtl minecraft_block-lectern_base
+Kd 0.6375 0.4744 0.2914
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lectern_base.png
+
+newmtl minecraft_block-quartz_block_bottom
+Kd 0.9288 0.9034 0.8781
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/quartz_block_bottom.png
+
+newmtl minecraft_block-polished_andesite
+Kd 0.5187 0.5284 0.5255
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_andesite.png
+
+newmtl minecraft_block-spruce_trapdoor
+Kd 0.4066 0.3100 0.1877
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/spruce_trapdoor.png
+
+newmtl minecraft_block-red_sandstone
+Kd 0.7323 0.3896 0.1144
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_sandstone.png
+
+newmtl minecraft_block-orange_concrete_powder
+Kd 0.8913 0.5171 0.1251
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_concrete_powder.png
+
+newmtl minecraft_block-white_terracotta
+Kd 0.8221 0.6982 0.6327
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/white_terracotta.png
+
+newmtl minecraft_block-pink_concrete_powder
+Kd 0.8975 0.6013 0.7100
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pink_concrete_powder.png
+
+newmtl minecraft_block-cherry_door_top
+Kd 0.8754 0.6691 0.6466
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cherry_door_top.png
+map_d tex/minecraft/block/cherry_door_top_a.png
+d 0.99
+
+newmtl minecraft_block-acacia_log_top
+Kd 0.5918 0.3484 0.2163
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/acacia_log_top.png
+
+newmtl minecraft_block-lime_glazed_terracotta
+Kd 0.6390 0.7752 0.2165
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lime_glazed_terracotta.png
+
+newmtl minecraft_block-barrel_side
+Kd 0.4230 0.3189 0.1967
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/barrel_side.png
+
+newmtl minecraft_block-red_candle
+Kd 0.6006 0.1528 0.1417
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_candle.png
+map_d tex/minecraft/block/red_candle_a.png
+d 0.99
+
+newmtl minecraft_block-lectern_top
+Kd 0.6818 0.5402 0.3267
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lectern_top.png
+
+newmtl minecraft_block-prismarine
+Kd 0.3863 0.6356 0.5719
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/prismarine.png
+
+newmtl minecraft_block-blue_concrete
+Kd 0.1747 0.1825 0.5624
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_concrete.png
+
+newmtl minecraft_block-blue_terracotta
+Kd 0.2913 0.2341 0.3573
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_terracotta.png
+
+newmtl minecraft_block-yellow_concrete_powder
+Kd 0.9133 0.7811 0.2148
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_concrete_powder.png
+
+newmtl minecraft_block-azure_bluet
+Kd 0.6643 0.8020 0.4996
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/azure_bluet.png
+map_d tex/minecraft/block/azure_bluet_a.png
+d 0.99
+
+newmtl minecraft_block-crimson_door_bottom
+Kd 0.4528 0.2165 0.3116
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/crimson_door_bottom.png
+
+newmtl minecraft_block-green_terracotta
+Kd 0.2981 0.3266 0.1660
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_terracotta.png
+
+newmtl minecraft_block-cauldron_top
+Kd 0.2893 0.2852 0.2907
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cauldron_top.png
+map_d tex/minecraft/block/cauldron_top_a.png
+d 0.99
+
+newmtl minecraft_block-jungle_planks
+Kd 0.6292 0.4517 0.3168
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jungle_planks.png
+
+newmtl minecraft_block-lilac_top
+Kd 0.6064 0.4902 0.5784
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lilac_top.png
+map_d tex/minecraft/block/lilac_top_a.png
+d 0.99
+
+newmtl minecraft_block-pearlescent_froglight_top
+Kd 0.9636 0.9414 0.9399
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pearlescent_froglight_top.png
+
+newmtl minecraft_block-light_blue_terracotta
+Kd 0.4450 0.4256 0.5411
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_terracotta.png
+
+newmtl minecraft_block-orange_terracotta
+Kd 0.6337 0.3289 0.1477
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_terracotta.png
+
+newmtl minecraft_block-orange_wool
+Kd 0.9437 0.4631 0.0765
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_wool.png
+
+newmtl minecraft_block-netherrack
+Kd 0.3827 0.1506 0.1506
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/netherrack.png
+
+newmtl minecraft_block-bamboo_door_bottom
+Kd 0.7810 0.6995 0.3325
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bamboo_door_bottom.png
+
+newmtl minecraft_block-stone_bricks
+Kd 0.4802 0.4777 0.4802
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stone_bricks.png
+
+newmtl minecraft_block-bricks
+Kd 0.5920 0.3826 0.3257
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bricks.png
+
+newmtl minecraft_block-torchflower
+Kd 0.3959 0.3969 0.3024
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/torchflower.png
+map_d tex/minecraft/block/torchflower_a.png
+d 0.99
+
+newmtl minecraft_block-dark_oak_trapdoor
+Kd 0.2954 0.1945 0.0916
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dark_oak_trapdoor.png
+
+newmtl minecraft_block-light_blue_concrete
+Kd 0.1396 0.5374 0.7801
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_concrete.png
+
+newmtl minecraft_block-wildflowers
+Kd 0.9297 0.8390 0.4602
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/wildflowers.png
+map_d tex/minecraft/block/wildflowers_a.png
+d 0.99
+
+newmtl minecraft_block-stripped_warped_stem
+Kd 0.2258 0.5919 0.5795
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stripped_warped_stem.png
+
+newmtl minecraft_block-spruce_door_bottom
+Kd 0.4152 0.3152 0.1916
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/spruce_door_bottom.png
+
+newmtl minecraft_block-honey_block_bottom
+Kd 0.9463 0.5726 0.0702
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/honey_block_bottom.png
+map_d tex/minecraft/block/honey_block_bottom_a.png
+d 0.99
+
+newmtl minecraft_block-barrel_top
+Kd 0.5275 0.3943 0.2294
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/barrel_top.png
+
+newmtl minecraft_block-blue_glazed_terracotta
+Kd 0.1861 0.2535 0.5466
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_glazed_terracotta.png
+
+newmtl minecraft_block-large_fern_top
+Kd 0.1333 0.3449 0.0436
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/large_fern_top.png
+map_d tex/minecraft/block/large_fern_top_a.png
+d 0.99
+
+newmtl minecraft_block-grass_block_side
+Kd 0.4972 0.4201 0.2572
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/grass_block_side.png
+
+newmtl minecraft_block-light_blue_concrete_powder
+Kd 0.2913 0.7087 0.8367
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_concrete_powder.png
+
+newmtl minecraft_block-cactus_flower
+Kd 0.8221 0.4733 0.5311
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cactus_flower.png
+map_d tex/minecraft/block/cactus_flower_a.png
+d 0.99
+
+newmtl minecraft_block-warped_shelf
+Kd 0.2009 0.5512 0.5240
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_shelf.png
+
+newmtl minecraft_block-light_gray_concrete_powder
+Kd 0.6074 0.6077 0.5811
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_gray_concrete_powder.png
+
+newmtl minecraft_block-light_gray_concrete
+Kd 0.4903 0.4903 0.4511
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_gray_concrete.png
+
+newmtl minecraft_block-cauldron_inner
+Kd 0.1930 0.1922 0.2089
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cauldron_inner.png
+
+newmtl minecraft_block-quartz_block_side
+Kd 0.9246 0.9016 0.8743
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/quartz_block_side.png
+
+newmtl minecraft_block-warped_door_bottom
+Kd 0.1698 0.4659 0.4408
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_door_bottom.png
+
+newmtl minecraft_block-stripped_oak_log
+Kd 0.6959 0.5651 0.3375
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stripped_oak_log.png
+
+newmtl minecraft_block-acacia_planks
+Kd 0.6593 0.3544 0.1970
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/acacia_planks.png
+
+newmtl minecraft_block-blue_orchid
+Kd 0.1855 0.6373 0.6599
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_orchid.png
+map_d tex/minecraft/block/blue_orchid_a.png
+d 0.99
+
+newmtl minecraft_block-cyan_candle
+Kd 0.0669 0.4848 0.4848
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_candle.png
+map_d tex/minecraft/block/cyan_candle_a.png
+d 0.99
+
+newmtl minecraft_block-water_still
+Kd 0.1680 0.3193 0.6148
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/water_still.png
+map_d tex/minecraft/block/water_still_a.png
+d 0.99
+
+newmtl minecraft_block-polished_blackstone
+Kd 0.2087 0.1907 0.2225
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_blackstone.png
+
+newmtl minecraft_block-stripped_mangrove_log
+Kd 0.4688 0.2135 0.1882
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stripped_mangrove_log.png
+
+newmtl minecraft_block-oxidized_copper_bulb
+Kd 0.2754 0.5192 0.4285
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oxidized_copper_bulb.png
+
+newmtl minecraft_block-blue_candle
+Kd 0.2237 0.2995 0.6316
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_candle.png
+map_d tex/minecraft/block/blue_candle_a.png
+d 0.99
+
+newmtl minecraft_block-crimson_planks
+Kd 0.3962 0.1913 0.2767
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/crimson_planks.png
+
+newmtl minecraft_block-pitcher_crop_top_stage_4
+Kd 0.4788 0.5666 0.7415
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pitcher_crop_top_stage_4.png
+map_d tex/minecraft/block/pitcher_crop_top_stage_4_a.png
+d 0.99
+
+newmtl minecraft_block-poppy
+Kd 0.5045 0.2542 0.1480
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/poppy.png
+map_d tex/minecraft/block/poppy_a.png
+d 0.99
+
+newmtl minecraft_block-bedrock
+Kd 0.5972 0.5972 0.5972
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bedrock.png
+
+newmtl minecraft_block-green_glazed_terracotta
+Kd 0.4589 0.5581 0.2644
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_glazed_terracotta.png
+
+newmtl minecraft_block-stripped_pale_oak_log
+Kd 0.9640 0.9341 0.9292
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stripped_pale_oak_log.png
+
+newmtl minecraft_block-moss_block
+Kd 0.3493 0.4303 0.1780
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/moss_block.png
+
+newmtl minecraft_block-dark_oak_door_top
+Kd 0.3005 0.2030 0.0991
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dark_oak_door_top.png
+
+newmtl minecraft_block-magenta_terracotta
+Kd 0.5869 0.3455 0.4262
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/magenta_terracotta.png
+
+newmtl minecraft_block-cyan_terracotta
+Kd 0.3401 0.3569 0.3569
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_terracotta.png
+
+newmtl minecraft_block-grass_block_top
+Kd 0.4936 0.7793 0.3069
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/grass_block_top.png
+
+newmtl minecraft_block-polished_granite
+Kd 0.6043 0.4190 0.3499
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_granite.png
+
+newmtl minecraft_block-red_sandstone_bottom
+Kd 0.7280 0.3859 0.1113
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_sandstone_bottom.png
+
+newmtl minecraft_block-pink_candle
+Kd 0.8157 0.3996 0.5578
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pink_candle.png
+map_d tex/minecraft/block/pink_candle_a.png
+d 0.99
+
+newmtl minecraft_block-purple_concrete_powder
+Kd 0.5173 0.2183 0.6965
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_concrete_powder.png
+
+newmtl minecraft_block-light_gray_glazed_terracotta
+Kd 0.5657 0.6512 0.6586
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_gray_glazed_terracotta.png
+
+newmtl minecraft_block-jungle_leaves
+Kd 0.2298 0.5650 0.0683
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jungle_leaves.png
+map_d tex/minecraft/block/jungle_leaves_a.png
+d 0.99
+
+newmtl minecraft_block-deepslate_bricks
+Kd 0.2783 0.2781 0.2795
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate_bricks.png
+
+newmtl minecraft_block-acacia_log
+Kd 0.4049 0.3787 0.3409
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/acacia_log.png
+
+newmtl minecraft_block-mangrove_door_top
+Kd 0.4428 0.1917 0.1831
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/mangrove_door_top.png
+
+newmtl minecraft_block-lectern_sides
+Kd 0.5879 0.4593 0.2648
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lectern_sides.png
+
+newmtl minecraft_block-acacia_leaves
+Kd 0.2179 0.5449 0.0703
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/acacia_leaves.png
+map_d tex/minecraft/block/acacia_leaves_a.png
+d 0.99
+
+newmtl minecraft_block-iron_trapdoor
+Kd 0.7960 0.7931 0.7931
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_trapdoor.png
+map_d tex/minecraft/block/iron_trapdoor_a.png
+d 0.99
+
+newmtl minecraft_block-lilac_bottom
+Kd 0.5376 0.4867 0.4978
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lilac_bottom.png
+map_d tex/minecraft/block/lilac_bottom_a.png
+d 0.99
+
+newmtl minecraft_block-azalea_leaves
+Kd 0.3537 0.4505 0.1733
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/azalea_leaves.png
+map_d tex/minecraft/block/azalea_leaves_a.png
+d 0.99
+
+newmtl minecraft_block-warped_stem
+Kd 0.2274 0.2331 0.3055
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_stem.png
+
+newmtl minecraft_block-jukebox_top
+Kd 0.3678 0.2526 0.1855
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jukebox_top.png
+
+newmtl minecraft_block-cracked_stone_bricks
+Kd 0.4640 0.4614 0.4640
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cracked_stone_bricks.png
+
+newmtl minecraft_block-crimson_door_top
+Kd 0.4488 0.2155 0.3102
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/crimson_door_top.png
+
+newmtl minecraft_block-flowering_azalea_leaves
+Kd 0.3905 0.4357 0.2387
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/flowering_azalea_leaves.png
+map_d tex/minecraft/block/flowering_azalea_leaves_a.png
+d 0.99
+
+newmtl minecraft_block-tuff_bricks
+Kd 0.3847 0.4025 0.3739
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/tuff_bricks.png
+
+newmtl minecraft_block-iron_chain
+Kd 0.2015 0.2272 0.2917
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_chain.png
+map_d tex/minecraft/block/iron_chain_a.png
+d 0.99
+
+newmtl minecraft_block-oak_planks
+Kd 0.6361 0.5130 0.3083
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oak_planks.png
+
+newmtl minecraft_block-cobblestone
+Kd 0.5011 0.4992 0.5004
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cobblestone.png
+
+newmtl minecraft_block-warped_planks
+Kd 0.1688 0.4113 0.3888
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_planks.png
+
+newmtl minecraft_block-purple_terracotta
+Kd 0.4645 0.2756 0.3376
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_terracotta.png
+
+newmtl minecraft_block-yellow_terracotta
+Kd 0.7305 0.5221 0.1387
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_terracotta.png
+
+newmtl minecraft_block-bamboo_door_top
+Kd 0.7502 0.6724 0.3186
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bamboo_door_top.png
+map_d tex/minecraft/block/bamboo_door_top_a.png
+d 0.99
+
+newmtl minecraft_block-stripped_pale_oak_log_top
+Kd 0.9226 0.8896 0.8850
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stripped_pale_oak_log_top.png
+
+newmtl minecraft_block-lectern_front
+Kd 0.5097 0.3954 0.2183
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lectern_front.png
+
+newmtl minecraft_block-cut_sandstone
+Kd 0.8542 0.8096 0.6267
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cut_sandstone.png
+
+newmtl minecraft_block-cherry_door_bottom
+Kd 0.8850 0.6906 0.6655
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cherry_door_bottom.png
+map_d tex/minecraft/block/cherry_door_bottom_a.png
+d 0.99
+
+newmtl minecraft_block-pink_petals_stem
+Kd 0.8353 0.8353 0.8353
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pink_petals_stem.png
+map_d tex/minecraft/block/pink_petals_stem_a.png
+d 0.99
+
+newmtl minecraft_block-polished_blackstone_bricks
+Kd 0.1893 0.1668 0.1952
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_blackstone_bricks.png
+
+newmtl minecraft_block-warped_door_top
+Kd 0.1748 0.4979 0.4730
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/warped_door_top.png
+
+newmtl minecraft_block-red_glazed_terracotta
+Kd 0.7137 0.2337 0.2079
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_glazed_terracotta.png
+
+newmtl minecraft_block-pink_petals
+Kd 0.9674 0.7083 0.8571
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pink_petals.png
+map_d tex/minecraft/block/pink_petals_a.png
+d 0.99
+
+newmtl minecraft_block-bamboo_planks
+Kd 0.7583 0.6788 0.3156
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bamboo_planks.png
+
+newmtl minecraft_block-barrel_bottom
+Kd 0.4532 0.3350 0.1916
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/barrel_bottom.png
+
+newmtl minecraft_block-red_sandstone_top
+Kd 0.7110 0.3836 0.1234
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_sandstone_top.png
+
+newmtl minecraft_block-mangrove_door_bottom
+Kd 0.4400 0.1876 0.1821
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/mangrove_door_bottom.png
+
+newmtl minecraft_block-iron_bars
+Kd 0.5366 0.5459 0.5316
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_bars.png
+map_d tex/minecraft/block/iron_bars_a.png
+d 0.99
+
+newmtl minecraft_block-dark_oak_log_top
+Kd 0.2654 0.1769 0.0877
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dark_oak_log_top.png
+
+newmtl minecraft_block-pearlescent_froglight_side
+Kd 0.9235 0.8823 0.8961
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pearlescent_froglight_side.png
+
+newmtl minecraft_entity-chest-normal_right
+Kd 0.4139 0.3013 0.1257
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/chest/normal_right.png
+map_d tex/minecraft/entity/chest/normal_right_a.png
+d 0.99
+
+newmtl minecraft_block-brown_glazed_terracotta
+Kd 0.4705 0.4167 0.3370
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/brown_glazed_terracotta.png
+
+newmtl minecraft_block-dark_oak_shelf
+Kd 0.2576 0.2006 0.1276
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dark_oak_shelf.png
+
+newmtl minecraft_block-spruce_log_top
+Kd 0.4267 0.3152 0.1836
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/spruce_log_top.png
+
+newmtl minecraft_block-brown_terracotta
+Kd 0.3029 0.2007 0.1400
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/brown_terracotta.png
+
+newmtl minecraft_block-ladder
+Kd 0.4888 0.3790 0.2144
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/ladder.png
+map_d tex/minecraft/block/ladder_a.png
+d 0.99
+
+newmtl minecraft_block-lime_concrete_powder
+Kd 0.4917 0.7422 0.1643
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lime_concrete_powder.png
+
+newmtl minecraft_block-pink_terracotta
+Kd 0.6350 0.3070 0.3085
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pink_terracotta.png
+
+newmtl minecraft_block-yellow_glazed_terracotta
+Kd 0.9190 0.7542 0.3479
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_glazed_terracotta.png
+
+newmtl minecraft_block-white_glazed_terracotta
+Kd 0.7392 0.8333 0.7957
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/white_glazed_terracotta.png
+
+newmtl minecraft_block-green_wool
+Kd 0.3327 0.4296 0.1079
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_wool.png
+
+newmtl minecraft_block-stone
+Kd 0.7292 0.7292 0.7292
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stone.png
+
+newmtl minecraft_block-granite
+Kd 0.5860 0.4049 0.3371
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/granite.png
+
+newmtl minecraft_block-pink_glazed_terracotta
+Kd 0.9222 0.6078 0.7120
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pink_glazed_terracotta.png
+
+newmtl minecraft_entity-chest-normal_left
+Kd 0.4126 0.3005 0.1248
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/chest/normal_left.png
+map_d tex/minecraft/entity/chest/normal_left_a.png
+d 0.99
+
+newmtl minecraft_block-spruce_door_top
+Kd 0.4176 0.3155 0.1908
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/spruce_door_top.png
+
+newmtl minecraft_entity-chest-normal
+Kd 0.4119 0.3043 0.1372
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/chest/normal.png
+map_d tex/minecraft/entity/chest/normal_a.png
+d 0.99
+
+newmtl minecraft_block-bamboo_mosaic
+Kd 0.7459 0.6674 0.3063
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bamboo_mosaic.png
+
+newmtl minecraft_block-scaffolding_bottom
+Kd 0.7591 0.6775 0.3118
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/scaffolding_bottom.png
+map_d tex/minecraft/block/scaffolding_bottom_a.png
+d 0.99
+
+newmtl minecraft_block-spruce_log
+Kd 0.2307 0.1477 0.0663
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/spruce_log.png
+
+newmtl minecraft_block-brewing_stand_base
+Kd 0.4569 0.4152 0.4152
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/brewing_stand_base.png
+
+newmtl minecraft_block-large_fern_bottom
+Kd 0.1409 0.3617 0.0471
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/large_fern_bottom.png
+map_d tex/minecraft/block/large_fern_bottom_a.png
+d 0.99
+
+newmtl minecraft_block-white_concrete_powder
+Kd 0.8852 0.8921 0.8935
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/white_concrete_powder.png
+
+newmtl minecraft_block-ochre_froglight_top
+Kd 0.9832 0.9614 0.8098
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/ochre_froglight_top.png
+
+newmtl minecraft_block-red_wool
+Kd 0.6313 0.1542 0.1358
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_wool.png
+
+newmtl minecraft_block-brewing_stand
+Kd 0.4787 0.3955 0.3174
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/brewing_stand.png
+map_d tex/minecraft/block/brewing_stand_a.png
+d 0.99
+
+newmtl minecraft_block-mangrove_leaves
+Kd 0.2786 0.3475 0.0757
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/mangrove_leaves.png
+map_d tex/minecraft/block/mangrove_leaves_a.png
+d 0.99
+
+newmtl minecraft_block-iron_door_top
+Kd 0.7613 0.7574 0.7574
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_door_top.png
+map_d tex/minecraft/block/iron_door_top_a.png
+d 0.99
+
+newmtl minecraft_block-jungle_door_bottom
+Kd 0.6202 0.4455 0.3088
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jungle_door_bottom.png
+
+newmtl minecraft_block-birch_door_top
+Kd 0.8635 0.8230 0.6920
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/birch_door_top.png
+
+newmtl minecraft_block-spruce_planks
+Kd 0.4507 0.3327 0.1904
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/spruce_planks.png
+
+newmtl minecraft_block-red_terracotta
+Kd 0.5612 0.2393 0.1839
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_terracotta.png
+
+newmtl minecraft_block-honey_block_side
+Kd 0.9832 0.7390 0.2271
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/honey_block_side.png
+map_d tex/minecraft/block/honey_block_side_a.png
+d 0.99
+
+newmtl minecraft_block-lantern
+Kd 0.4181 0.3624 0.3324
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lantern.png
+map_d tex/minecraft/block/lantern_a.png
+d 0.99
+
+newmtl minecraft_block-iron_door_bottom
+Kd 0.7676 0.7638 0.7638
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_door_bottom.png
+
+newmtl minecraft_block-amethyst_block
+Kd 0.5246 0.3843 0.7500
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/amethyst_block.png
+
+newmtl minecraft_block-lime_concrete
+Kd 0.3690 0.6620 0.0961
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lime_concrete.png
+
+newmtl minecraft_block-scaffolding_top
+Kd 0.6673 0.5159 0.2870
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/scaffolding_top.png
+map_d tex/minecraft/block/scaffolding_top_a.png
+d 0.99
+
+newmtl minecraft_block-peony_bottom
+Kd 0.3393 0.3976 0.3667
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/peony_bottom.png
+map_d tex/minecraft/block/peony_bottom_a.png
+d 0.99
+
+newmtl minecraft_block-sandstone_bottom
+Kd 0.8458 0.7924 0.6047
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sandstone_bottom.png
+
+newmtl minecraft_block-prismarine_bricks
+Kd 0.3892 0.6730 0.6213
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/prismarine_bricks.png
+
+newmtl minecraft_block-brown_concrete
+Kd 0.3782 0.2335 0.1239
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/brown_concrete.png
+
+newmtl minecraft_block-pale_oak_planks
+Kd 0.8929 0.8530 0.8486
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pale_oak_planks.png
+
+newmtl minecraft_block-purple_glazed_terracotta
+Kd 0.4307 0.1877 0.5975
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_glazed_terracotta.png
+
+newmtl minecraft_block-scaffolding_side
+Kd 0.7557 0.6674 0.3089
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/scaffolding_side.png
+map_d tex/minecraft/block/scaffolding_side_a.png
+d 0.99
+
+newmtl minecraft_block-red_concrete_powder
+Kd 0.6596 0.2123 0.1985
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_concrete_powder.png
+
+newmtl minecraft_block-brown_concrete_powder
+Kd 0.4923 0.3327 0.2112
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/brown_concrete_powder.png
+
+newmtl minecraft_block-jungle_door_top
+Kd 0.6414 0.4693 0.3320
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jungle_door_top.png
+map_d tex/minecraft/block/jungle_door_top_a.png
+d 0.99
+
+newmtl minecraft_block-cobbled_deepslate
+Kd 0.3030 0.3030 0.3161
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cobbled_deepslate.png
+
+newmtl minecraft_block-dark_oak_planks
+Kd 0.2614 0.1690 0.0793
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dark_oak_planks.png
+
+newmtl minecraft_block-grindstone_round
+Kd 0.7695 0.7695 0.7695
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/grindstone_round.png
+map_d tex/minecraft/block/grindstone_round_a.png
+d 0.99
+
+newmtl minecraft_block-orange_candle
+Kd 0.8599 0.3937 0.0353
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_candle.png
+map_d tex/minecraft/block/orange_candle_a.png
+d 0.99
+
+newmtl minecraft_block-red_concrete
+Kd 0.5584 0.1287 0.1287
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_concrete.png
+
+newmtl minecraft_block-andesite
+Kd 0.5339 0.5344 0.5364
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/andesite.png
+
+newmtl minecraft_block-cauldron_side
+Kd 0.2907 0.2877 0.2929
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cauldron_side.png
+
+newmtl minecraft_block-stripped_cherry_log
+Kd 0.8434 0.5693 0.5841
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stripped_cherry_log.png
+
+newmtl minecraft_block-green_concrete
+Kd 0.2879 0.3582 0.1431
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_concrete.png
+
+newmtl minecraft_block-black_terracotta
+Kd 0.1460 0.0895 0.0643
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/black_terracotta.png
+
+newmtl minecraft_block-acacia_trapdoor
+Kd 0.6145 0.3420 0.2011
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/acacia_trapdoor.png
+map_d tex/minecraft/block/acacia_trapdoor_a.png
+d 0.99
+
+newmtl minecraft_block-light_gray_terracotta
+Kd 0.5304 0.4191 0.3824
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_gray_terracotta.png
+
+newmtl minecraft_block-green_concrete_powder
+Kd 0.3811 0.4671 0.1748
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_concrete_powder.png
+
+newmtl minecraft_block-sandstone
+Kd 0.8488 0.7971 0.6111
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sandstone.png
+
+newmtl minecraft_block-bamboo_shelf
+Kd 0.7154 0.6444 0.2975
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bamboo_shelf.png
+
+newmtl minecraft_block-stripped_acacia_log
+Kd 0.6853 0.3644 0.2344
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stripped_acacia_log.png
+
+newmtl minecraft_block-lime_terracotta
+Kd 0.4060 0.4615 0.2070
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lime_terracotta.png
+
+newmtl minecraft_block-dirt
+Kd 0.5265 0.3776 0.2627
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dirt.png
+
+newmtl minecraft_block-magenta_concrete_powder
+Kd 0.7558 0.3287 0.7241
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/magenta_concrete_powder.png
+
+newmtl minecraft_block-stripped_jungle_log
+Kd 0.6725 0.5209 0.3317
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stripped_jungle_log.png
+
+newmtl minecraft_block-cyan_concrete
+Kd 0.0841 0.4675 0.5341
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_concrete.png
+
+newmtl minecraft_block-cut_red_sandstone
+Kd 0.7424 0.3991 0.1246
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cut_red_sandstone.png
+
+newmtl minecraft_block-oak_shelf
+Kd 0.5674 0.4520 0.2632
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oak_shelf.png
+
+newmtl minecraft_block-gold_block
+Kd 0.9663 0.8169 0.2417
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gold_block.png
+
+newmtl minecraft_block-cherry_planks
+Kd 0.8883 0.7009 0.6773
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cherry_planks.png
+
+newmtl minecraft_block-magenta_concrete
+Kd 0.6636 0.1901 0.6244
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/magenta_concrete.png
+
+newmtl minecraft_block-deepslate_tiles
+Kd 0.2153 0.2149 0.2160
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/deepslate_tiles.png
+
+newmtl minecraft_block-red_nether_bricks
+Kd 0.2727 0.0276 0.0353
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_nether_bricks.png
+
+newmtl minecraft_block-honey_block_top
+Kd 0.9845 0.7266 0.2060
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/honey_block_top.png
+map_d tex/minecraft/block/honey_block_top_a.png
+d 0.99
+
+newmtl minecraft_block-oxidized_cut_copper
+Kd 0.3126 0.6024 0.4958
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oxidized_cut_copper.png
+
+newmtl minecraft_block-verdant_froglight_side
+Kd 0.8283 0.9202 0.8167
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/verdant_froglight_side.png
+
+newmtl minecraft_block-dandelion
+Kd 0.5792 0.6755 0.1705
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dandelion.png
+map_d tex/minecraft/block/dandelion_a.png
+d 0.99
+
+newmtl minecraft_block-peony_top
+Kd 0.5085 0.4962 0.5470
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/peony_top.png
+map_d tex/minecraft/block/peony_top_a.png
+d 0.99
+
+newmtl minecraft_block-terracotta
+Kd 0.5966 0.3687 0.2656
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/terracotta.png
+
+newmtl minecraft_block-pink_concrete
+Kd 0.8373 0.3961 0.5603
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pink_concrete.png
+
+newmtl minecraft_block-end_rod
+Kd 0.8139 0.7776 0.7337
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/end_rod.png
+map_d tex/minecraft/block/end_rod_a.png
+d 0.99
+
+newmtl minecraft_block-sandstone_top
+Kd 0.8778 0.8400 0.6680
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sandstone_top.png
+
+newmtl minecraft_block-blue_wool
+Kd 0.2081 0.2245 0.6176
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_wool.png
+
+newmtl minecraft_block-polished_tuff
+Kd 0.3829 0.4084 0.3917
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/polished_tuff.png
+
+newmtl minecraft_block-oak_log
+Kd 0.4278 0.3338 0.1988
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oak_log.png
+
+newmtl minecraft_block-oxidized_copper_bars
+Kd 0.2517 0.4815 0.3948
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oxidized_copper_bars.png
+map_d tex/minecraft/block/oxidized_copper_bars_a.png
+d 0.99
+
+newmtl minecraft_block-pale_oak_door_bottom
+Kd 0.7814 0.7456 0.7419
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pale_oak_door_bottom.png
+
+newmtl minecraft_block-firefly_bush
+Kd 0.3441 0.3270 0.1695
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/firefly_bush.png
+map_d tex/minecraft/block/firefly_bush_a.png
+d 0.99
+
+newmtl minecraft_block-mangrove_trapdoor
+Kd 0.4348 0.1834 0.1665
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/mangrove_trapdoor.png
+map_d tex/minecraft/block/mangrove_trapdoor_a.png
+d 0.99
+
+newmtl minecraft_block-oxeye_daisy
+Kd 0.7033 0.7939 0.5622
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oxeye_daisy.png
+map_d tex/minecraft/block/oxeye_daisy_a.png
+d 0.99
+
+newmtl minecraft_block-wildflowers_stem
+Kd 0.8353 0.8353 0.8353
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/wildflowers_stem.png
+map_d tex/minecraft/block/wildflowers_stem_a.png
+d 0.99
+
+newmtl minecraft_block-mangrove_shelf
+Kd 0.4289 0.1765 0.1649
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/mangrove_shelf.png
+
+newmtl minecraft_block-green_candle
+Kd 0.2855 0.3780 0.0822
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_candle.png
+map_d tex/minecraft/block/green_candle_a.png
+d 0.99
+
+newmtl minecraft_block-allium
+Kd 0.6234 0.5381 0.7213
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/allium.png
+map_d tex/minecraft/block/allium_a.png
+d 0.99
+
+newmtl minecraft_block-ochre_froglight_side
+Kd 0.9626 0.9149 0.7133
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/ochre_froglight_side.png
+
+newmtl minecraft_block-birch_door_bottom
+Kd 0.8171 0.7609 0.5657
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/birch_door_bottom.png
+
+newmtl minecraft_block-blue_concrete_powder
+Kd 0.2754 0.2873 0.6542
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_concrete_powder.png
+
+newmtl minecraft_block-flower_pot
+Kd 0.4868 0.2690 0.2095
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/flower_pot.png
+map_d tex/minecraft/block/flower_pot_a.png
+d 0.99
+
+newmtl minecraft_block-dark_oak_door_bottom
+Kd 0.2882 0.1928 0.0940
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dark_oak_door_bottom.png
+
+newmtl minecraft_block-jukebox_side
+Kd 0.3481 0.2312 0.1600
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jukebox_side.png
+
+newmtl minecraft_block-lily_of_the_valley
+Kd 0.4829 0.6846 0.3730
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lily_of_the_valley.png
+map_d tex/minecraft/block/lily_of_the_valley_a.png
+d 0.99
+
+newmtl minecraft_block-birch_planks
+Kd 0.7548 0.6874 0.4755
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/birch_planks.png
+
+newmtl minecraft_block-orange_glazed_terracotta
+Kd 0.6070 0.5784 0.3606
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_glazed_terracotta.png
+
+newmtl minecraft_block-oxidized_copper_lantern
+Kd 0.3132 0.5510 0.4409
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oxidized_copper_lantern.png
+map_d tex/minecraft/block/oxidized_copper_lantern_a.png
+d 0.99
+
+newmtl minecraft_block-pale_oak_log
+Kd 0.3436 0.3042 0.2942
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pale_oak_log.png
+
+newmtl minecraft_block-cyan_glazed_terracotta
+Kd 0.2049 0.4656 0.4915
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_glazed_terracotta.png
+
+newmtl minecraft_block-orange_tulip
+Kd 0.3665 0.5575 0.1206
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_tulip.png
+map_d tex/minecraft/block/orange_tulip_a.png
+d 0.99
+
+newmtl minecraft_block-mangrove_planks
+Kd 0.4626 0.2121 0.1908
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/mangrove_planks.png
+
+newmtl minecraft_block-dark_prismarine
+Kd 0.2034 0.3594 0.2978
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dark_prismarine.png
+
+newmtl minecraft_block-dark_oak_log
+Kd 0.2368 0.1826 0.1026
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/dark_oak_log.png
+
+newmtl minecraft_block-cyan_concrete_powder
+Kd 0.1437 0.5803 0.6163
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_concrete_powder.png
+
+newmtl minecraft_block-water_flow
+Kd 0.1614 0.3047 0.5906
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/water_flow.png
+map_d tex/minecraft/block/water_flow_a.png
+d 0.99
+
+newmtl minecraft_block-fire_0
+Kd 0.8352 0.5619 0.2362
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/fire_0.png
+map_d tex/minecraft/block/fire_0_a.png
+d 0.99
