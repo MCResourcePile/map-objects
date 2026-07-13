@@ -9,6 +9,11 @@ Kd 0.9756 0.7763 0.1554
 Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/yellow_wool.png
 
+newmtl minecraft_block-bedrock
+Kd 0.5972 0.5972 0.5972
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bedrock.png
+
 newmtl minecraft_block-obsidian
 Kd 0.0594 0.0416 0.0963
 Ks 0.0000 0.0000 0.0000
@@ -20,8 +25,3 @@ Ks 0.0000 0.0000 0.0000
 map_Kd tex/minecraft/block/glass.png
 map_d tex/minecraft/block/glass_a.png
 d 0.99
-
-newmtl minecraft_block-bedrock
-Kd 0.5972 0.5972 0.5972
-Ks 0.0000 0.0000 0.0000
-map_Kd tex/minecraft/block/bedrock.png
